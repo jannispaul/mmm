@@ -1,10 +1,7 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
-import Helmet from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
-import Content, { HTMLContent } from "../components/Content";
 import Img from "gatsby-image";
 import styled from "styled-components";
 
@@ -97,9 +94,9 @@ const IngredientsContainer = styled.div`
 `;
 
 // const ScrollContent = styled.div`
-//     background: var(--color-light);
-//     order: 1;
-// `
+//   background: var(--color-light);
+//   order: 1;
+// `;
 
 const StyledImage = styled(Img)`
   height: calc(70vh - 80px);
@@ -150,39 +147,31 @@ const IngredientListItem = styled.ul`
   }
 `;
 
-export const RecipeTemplate = ({
-  content,
-  contentComponent,
-  date,
-  tags,
-  title,
-  portions,
-  time,
-  ingredients,
-  featuredImage
-}) => {
-  const PostContent = contentComponent || Content;
-
+const RecipeTemplate = props => {
   return (
-    <section>
+    <Layout>
       <Hero>
         {/* <ScrollContent> */}
-        <StyledImage fluid={featuredImage.childImageSharp.fluid} />
+        <StyledImage
+          fluid={
+            props.data.markdownRemark.frontmatter.featuredImage.childImageSharp
+              .fluid
+          }
+        />
         <MainContent>
           <CenterContainer>
-            {/* <Label to={category.slug}>{category.title}</Label> */}
-            <Title>{title}</Title>
+            <Title>{props.data.markdownRemark.frontmatter.title}</Title>
             <MetaInfoContainer>
-              <p>{time} min</p>
-              <p>{portions} Portionen</p>
-              <p>{date}</p>
+              <p>{props.data.markdownRemark.frontmatter.time} min</p>
+              <p>{props.data.markdownRemark.frontmatter.portions} Portionen</p>
+              <p>{props.data.markdownRemark.frontmatter.date}</p>
             </MetaInfoContainer>
 
             <IngredientsContainer>
               <Headline2>Zutaten</Headline2>
               <hr></hr>
               <IngredientListItem>
-                {ingredients.map(node => (
+                {props.data.markdownRemark.frontmatter.ingredients.map(node => (
                   <li key={node}>{node}</li>
                 ))}
               </IngredientListItem>
@@ -192,14 +181,13 @@ export const RecipeTemplate = ({
         <DirectionsContainer>
           <div>
             <Headline2>Zubereitung</Headline2>
-            <PostContent content={content} />
-            {/* <p>Description:</p>
-            <div>{description}</div> */}
-            {tags && tags.length ? (
+            {/* <PostContent content={content} /> */}
+            {props.data.markdownRemark.frontmattertags &&
+            props.data.markdownRemark.frontmattertags.length ? (
               <div>
                 <h4>Tags</h4>
                 <ul>
-                  {tags.map(tag => (
+                  {props.data.markdownRemark.frontmatter.tags.map(tag => (
                     <li key={tag + `tag`}>
                       <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                     </li>
@@ -211,55 +199,11 @@ export const RecipeTemplate = ({
         </DirectionsContainer>
         {/* </ScrollContent> */}
       </Hero>
-    </section>
-  );
-};
-
-RecipeTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
-  description: PropTypes.string,
-  title: PropTypes.string,
-  helmet: PropTypes.object
-};
-
-const Recipe = ({ data }) => {
-  const { markdownRemark: post } = data;
-
-  return (
-    <Layout>
-      <RecipeTemplate
-        content={post.html}
-        contentComponent={HTMLContent}
-        description={post.frontmatter.description}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
-        }
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
-        time={post.frontmatter.time}
-        date={post.frontmatter.date}
-        portions={post.frontmatter.portions}
-        ingredients={post.frontmatter.ingredients}
-        featuredImage={post.frontmatter.featuredImage}
-      />
     </Layout>
   );
 };
 
-Recipe.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object
-  })
-};
-
-export default Recipe;
+export default RecipeTemplate;
 
 export const pageQuery = graphql`
   query RecipeByID($id: String!) {

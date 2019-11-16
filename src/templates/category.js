@@ -24,7 +24,7 @@ const CategoryTemplate = props => {
               slug={recipe.node.fields.slug}
               title={recipe.node.frontmatter.title}
               time={recipe.node.frontmatter.time}
-              portion={recipe.node.frontmatter.portions}
+              portions={recipe.node.frontmatter.portions}
               featuredImage={recipe.node.frontmatter.featuredImage}
             ></RecipeCardItem>
           ))}
