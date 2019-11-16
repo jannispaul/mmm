@@ -1,0 +1,4 @@
+---
+templateKey: category
+name: sidedishes
+---

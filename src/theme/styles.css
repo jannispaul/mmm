@@ -1,0 +1,49 @@
+/*Browser Reset*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  user-select: none;
+  background-color: var(--color-lighter);
+}
+
+p,
+a,
+li,
+td {
+  line-height: var(--line-height);
+  color: var(--color-black);
+  /* opacity: 0.7; */
+  /* font-weight: normal; */
+}
+
+a {
+  /* color: var(--color-primary); */
+  text-decoration: none;
+}
+
+h1 {
+  font-size: var(--h1);
+  line-height: 1.2;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: var(--h3);
+}
+h4 {
+  font-size: var(--h4);
+}
+
+ul {
+  list-style: none;
+}
+
+@media (min-width: 376px) {
+  body {
+    user-select: auto;
+  }
+}

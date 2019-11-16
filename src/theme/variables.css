@@ -1,0 +1,72 @@
+:root {
+  /* main colors */
+  --color-primary: #0000ff;
+  --color-primary-light: #3a478f;
+  --color-primary-dark: #19284d;
+
+  --color-accent: #f10053;
+  --color-accent-light: #ff6197;
+  --color-accent-dark: #df004e;
+
+  /* colors - shades */
+  --color-black: #1d1d21;
+  --color-darker: #2e2e31;
+  --color-dark: #7b7a7d;
+  --color-medium: #5e728d;
+  --color-light: #ededed;
+  --color-lighter: #fafafa;
+  --color-white: white;
+
+  /* colors - feedback */
+  --color-success: #00863b;
+  --color-error: #f23e3e;
+  --color-warning: #fad825;
+
+  /* Spacing */
+  --nav-height: 80px;
+  --space-unit: 1.25em; /*Relative to html font-size*/
+  --space-s: calc(0.5 * var(--space-unit));
+  --space-m: calc(1 * var(--space-unit));
+  --space-l: calc(2 * var(--space-unit));
+
+  /* Typography */
+  font-size: 16px;
+  /* --ratio: 1.15; */
+  --line-height: 1.4;
+
+  /* Calculate values */
+  --small: calc(var(--font-size));
+  --h4: calc(var(--font-size) * var(--ratio));
+  --h3: calc(var(--font-size) * var(--ratio) * var(--ratio));
+  --h2: 2rem;
+  --h1: 2rem;
+
+  /* Timing */
+  --time-short: 200ms;
+}
+
+@media (min-width: 376px) {
+  :root {
+    font-size: 1rem;
+    line-height: 1.5;
+    --h2: 1.3rem;
+    --h1: 2.5rem;
+  }
+}
+@media (min-width: 600px) {
+  :root {
+    font-size: 18px;
+    --space-m: calc(2 * var(--space-unit));
+    line-height: 1.4;
+    --h2: 2rem;
+    --h1: 3rem;
+  }
+}
+
+@media (min-width: 1800px) {
+  :root {
+    font-size: 20px;
+    --nav-height: 90px;
+    /* font-size: 1.45rem; */
+  }
+}
