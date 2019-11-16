@@ -6,7 +6,7 @@ import { StaticQuery, graphql } from "gatsby";
 import "../theme/font-face.css";
 import "../theme/variables.css";
 import "../theme/styles.css";
-import Nav from "./nav";
+import Nav from "./Nav";
 import Footer from "./Footer";
 import styled from "styled-components";
 
