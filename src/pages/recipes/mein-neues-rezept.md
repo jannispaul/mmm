@@ -18,7 +18,7 @@ ingredients:
   - 1 Gurke
   - Ciabatta
 category:
-  - appetizer
+  - appetizers
 tags:
   - Sommer
   - lowcarb
