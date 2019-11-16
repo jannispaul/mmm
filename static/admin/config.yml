@@ -27,13 +27,25 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
+      # - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
       - { label: "Featured Image", name: "featuredImage", widget: image }
-      - { label: "Body", name: "body", widget: "text" }
-      - { label: "Time", name: "time", widget: "text" }
-      - { label: "Portions", name: "portions", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Time", name: "time", widget: "number"  default: 30
+  valueType: "int"
+  min: 1
+  max: 10
+  step: 1}
+      - { label: "Portions", name: "portions", widget: "number"  default: 4
+  valueType: "int"
+  min: 15
+  max: 180
+  step: 30}
       - { label: "Ingredients", name: "ingredients", widget: "list" }
-      - { label: "Category", name: "category", widget: "list" }
+      - { label: "Category", name: "category", widget: "select"  multiple: true options:  - { label: "Vorspeisen", value: "appetizers" }
+    - { label: "Hauptgerichte", value: "maindishes" }
+    - { label: "Beilagen", value: "sidedishes" }
+    - { label: "Desserts", value: "desserts" }
+    - { label: "Getränke", value: "drinks" }}
       - { label: "Tags", name: "tags", widget: "list" }
 
   - name: "categories"
