@@ -75,7 +75,7 @@ const RecipeCardItem = props => (
           <span role="img" aria-label="time">
             ⌛
           </span>{" "}
-          {props.time} min
+          {props.time}
         </MetaDetail>
         <MetaDetail>
           <span role="img" aria-label="portions">
