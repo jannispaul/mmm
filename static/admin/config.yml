@@ -42,9 +42,9 @@ collections:
           widget: "number",
           default: 4,
           valueType: "int",
-          min: 15,
-          max: 180,
-          step: 30,
+          min: 1,
+          max: 10,
+          step: 1,
         }
       - { label: "Ingredients", name: "ingredients", widget: "list" }
       - label: "Category"
