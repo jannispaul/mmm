@@ -27,4 +27,6 @@ category:
 tags:
 ---
 
-Öl in einer kleinen Pfanne auf mittlerer Stufe erhitzen. Zwiebel, Knoblauch und Thymian unter gelegentlichem Rühren kochen, bis die Zwiebel tief goldbraun und sehr weich sind, 35-40 Minuten. Thymian entsorgen und abkühlen lassen., , Karamellisierte Zwiebeln, Schalotte, Sauerrahm, Schnittlauch und Zitronensaft in einer mittelgroßen Schüssel mischen, mit Salz und Pfeffer würzen. 30 Minuten im Kuhlschrank sitzen lassen. Mit Kartoffelchips o.ä. servieren.
+1. Öl in einer kleinen Pfanne auf mittlerer Stufe erhitzen. Zwiebel, Knoblauch und Thymian unter gelegentlichem Rühren kochen, bis die Zwiebel tief goldbraun und sehr weich sind, 35-40 Minuten.
+2. Thymian entsorgen und abkühlen lassen. Karamellisierte Zwiebeln, Schalotte, Sauerrahm, Schnittlauch und Zitronensaft in einer mittelgroßen Schüssel mischen, mit Salz und Pfeffer würzen. 30 Minuten im Kuhlschrank sitzen lassen.
+3. Mit Kartoffelchips o.ä. servieren.

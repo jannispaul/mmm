@@ -182,6 +182,18 @@ const RecipeTemplate = props => {
           <div>
             <Headline2>Zubereitung</Headline2>
             {/* <PostContent content={content} /> */}
+            <div
+              dangerouslySetInnerHTML={{
+                __html: props.data.markdownRemark.html
+              }}
+            />
+            {/* <div>{props.data.markdownRemark.html}</div> */}
+            {/* <div
+              dangerouslySetInnerHTML={{
+                __html: props.data.markdownRemark.HTMLContent
+              }}
+            /> */}
+            {/* {props.data.markdownRemark.HTMLContent} */}
             {props.data.markdownRemark.frontmattertags &&
             props.data.markdownRemark.frontmattertags.length ? (
               <div>

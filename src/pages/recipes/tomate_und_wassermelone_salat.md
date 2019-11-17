@@ -23,4 +23,6 @@ category:
 tags:
 ---
 
-Step 1, Combine the cubed tomatoes and watermelon in a large, nonreactive bowl and toss gently to combine. Add salt and let stand 5 to 10 minutes while you prepare the dressing., Step 2, Whisk together the oil and vinegar and season with salt and pepper to taste., Step 3, Add the cheese to the tomatoes and watermelon, then the dressing, and toss gently to combine.
+1. Combine the cubed tomatoes and watermelon in a large, nonreactive bowl and toss gently to combine. Add salt and let stand 5 to 10 minutes while you prepare the dressing.
+2. Whisk together the oil and vinegar and season with salt and pepper to taste.
+3. Add the cheese to the tomatoes and watermelon, then the dressing, and toss gently to combine.
