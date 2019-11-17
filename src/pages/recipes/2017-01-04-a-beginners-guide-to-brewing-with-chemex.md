@@ -1,18 +1,27 @@
 ---
 templateKey: recipe
-title: A beginners’ guide to brewing with Chemex
+title: Martinihuhn
 date: 2017-01-04T15:04:10.000Z
-featuredImage: /img/test.png
-time: 15min
-portions: 2
 description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredImage: /img/test.png
+time: 2h+
+portions: 6
+ingredients:
+  - 4 Hähnchenunterkeulen (möglichst Maishähnchen)
+  - Frischer Thymian und/oder Rosmarin
+  - 6 bis 8 kleine Schalotten
+  - 2 Möhren
+  - 1 große oder 2 kleine rote Paprika (kann man auch weglassen)
+  - 1 Flasche Martini dry (nicht bianco!)
+  - 1 Becher Sahne
+  - 2 Eßl. Mehl
+  - Salz
+  - Pfeffer
+  - Honig
 category:
   - desserts
-ingredients:
-  - Mehl
-  - Salz
 tags:
-  - brewing
+  - Winter
   - chemex
 ---
 
