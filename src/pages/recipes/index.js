@@ -12,7 +12,6 @@ class AllRecipesIndexPage extends React.Component {
     return (
       <Layout>
         <SEO title="Alle Rezepte" />
-
         <Paddingcontainer>
           <PageHeadline
             title="All Rezepte"

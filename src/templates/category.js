@@ -11,7 +11,6 @@ const CategoryTemplate = props => {
   return (
     <Layout>
       <SEO title={`${props.data.CategoryByID.frontmatter.name}`} />
-
       <Paddingcontainer>
         <PageHeadline
           title={props.data.CategoryByID.frontmatter.name}

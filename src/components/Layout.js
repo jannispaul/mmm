@@ -10,7 +10,7 @@ import Nav from "./Nav";
 import Footer from "./Footer";
 import styled from "styled-components";
 
-const AppContent = styled.div`
+const AppContent = styled.main`
   min-height: 100vh;
   padding-top: 80px;
   box-shadow: 0 7px 15px rgba(0, 0, 0, 0.1);

@@ -4,6 +4,7 @@ import Layout from "../components/Layout";
 // import Features from "../components/Features";
 import LatestRecipes from "../components/LatestRecipes";
 import AllDesserts from "../components/AllDesserts";
+import SEO from "../components/Seo";
 
 const Spacer = styled.div`
   padding: 3rem;
@@ -11,6 +12,7 @@ const Spacer = styled.div`
 
 const IndexPage = () => (
   <Layout>
+    <SEO title={`MMM`} />
     <LatestRecipes />
     <AllDesserts />
     <Spacer></Spacer>
