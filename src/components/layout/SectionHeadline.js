@@ -6,10 +6,25 @@ const StyledLink = styled(Link)`
   width: 100%;
 `;
 const Header2 = styled.h2`
-  color: var(--color-primary);
+  color: var(--color-black);
   transition: all var(--time-short) cubic-bezier(0.075, 0.82, 0.165, 1);
   position: relative;
   line-height: 20px;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 1rem;
+
+  &::before {
+    content: "";
+    height: 15px;
+    background: yellow;
+    width: calc(100% - 30px);
+    position: absolute;
+    left: -10px;
+    bottom: -10px;
+    z-index: -1;
+    transition: all var(--time-short) cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
   &::after {
     opacity: 0.5;
     display: inline-block;
@@ -21,7 +36,14 @@ const Header2 = styled.h2`
       opacity: 1;
       transform: translateX(10px);
       transition: all var(--time-short) cubic-bezier(0.075, 0.82, 0.165, 1);
-      color: var(--color-primary);
+      color: var(--color-black);
+    }
+    &::before {
+      height: 2.5rem;
+      width: calc(100% + 40px);
+      left: -15px;
+      bottom: -14px;
+      transition: all var(--time-short) cubic-bezier(0.075, 0.82, 0.165, 1);
     }
   }
 `;

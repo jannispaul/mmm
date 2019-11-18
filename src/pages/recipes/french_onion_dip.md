@@ -4,7 +4,7 @@ title: French Onion Dip
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/test.png
-time: 90min
+time: 90 min
 portions: 4
 ingredients:
   - 2 Eßl. Olivenöl

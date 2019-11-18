@@ -4,7 +4,7 @@ title: Tomate und Wassermelone Salat
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/test.png
-time: 15min
+time: 15 min
 portions: 4
 ingredients:
   - 4 to 6 large tomatoes

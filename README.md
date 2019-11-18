@@ -1,3 +1,3 @@
-# Gatsby + Netlify CMS S
+# MMM - digital cookbok
 
 ## Todo

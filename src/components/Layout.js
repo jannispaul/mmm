@@ -7,7 +7,7 @@ import "../theme/font-face.css";
 import "../theme/variables.css";
 import "../theme/styles.css";
 import Nav from "./Nav";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 import styled from "styled-components";
 
 const AppContent = styled.main`
@@ -50,7 +50,7 @@ const Layout = ({ children }) => (
         </Helmet>
         <Nav />
         <AppContent>{children}</AppContent>
-        <Footer></Footer>
+        {/* <Footer></Footer> */}
       </>
     )}
   />

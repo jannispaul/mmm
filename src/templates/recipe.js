@@ -21,6 +21,7 @@ const MainContent = styled.div`
   margin-right: auto;
   max-width: 900px;
   text-align: center;
+  overflow: visible;
 
   @media (min-width: 1200px) {
     padding: 2rem;
@@ -44,7 +45,7 @@ const CenterContainer = styled.div`
 
 const Title = styled.h1`
   max-width: 800px;
-  background: var(--color-lighter);
+
   position: relative;
   padding: 2rem 2rem 0 2rem;
 
@@ -83,12 +84,14 @@ const MetaInfoContainer = styled.div`
   }
 `;
 const IngredientsContainer = styled.div`
-  background: var(--color-light);
-  padding: 1.5rem 2rem 3rem 2rem;
-  margin-left: -2rem;
-  margin-right: -2rem;
+  background: var(--color-lighter);
+  padding: 3rem 4rem;
+  margin-left: -4rem;
+  margin-right: -4rem;
+  border-radius: 10px;
+  z-index: 1;
   & > hr {
-    border: 1px solid var(--color-primary);
+    border: 1px solid var(--color-black);
     margin-bottom: 1rem;
   }
 `;
@@ -121,11 +124,11 @@ const StyledImage = styled(Img)`
 // `;
 const DirectionsContainer = styled.div`
   padding: 6rem var(--space-l);
-  display: flex;
-  align-items: center;
+  /* display: flex;
+  align-items: flex-start; */
   order: 3;
   grid-column: 2;
-  background: var(--color-light);
+  background: var(--color-lighter);
   & > div {
     max-width: 600px;
     margin: auto;
@@ -162,7 +165,7 @@ const RecipeTemplate = props => {
           <CenterContainer>
             <Title>{props.data.markdownRemark.frontmatter.title}</Title>
             <MetaInfoContainer>
-              <p>{props.data.markdownRemark.frontmatter.time} min</p>
+              <p>{props.data.markdownRemark.frontmatter.time}</p>
               <p>{props.data.markdownRemark.frontmatter.portions} Portionen</p>
               <p>{props.data.markdownRemark.frontmatter.date}</p>
             </MetaInfoContainer>

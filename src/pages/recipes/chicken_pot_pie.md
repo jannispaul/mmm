@@ -4,7 +4,7 @@ title: Chicken Pot Pie
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/test.png
-time: 2h+
+time: Mehrere Stunden
 portions: 4
 ingredients:
   - 1⁄4 cup/60g ungesalzene Butter

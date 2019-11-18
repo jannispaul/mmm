@@ -4,7 +4,7 @@ title: Smoky Minestrone
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/test.png
-time: 1h
+time: 1 Stunde
 portions: 6
 ingredients:
   - Suppe

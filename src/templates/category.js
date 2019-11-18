@@ -6,14 +6,19 @@ import RecipeCardItem from "../components/layout/RecipeCardItem";
 import RecipeList from "../components/layout/RecipeList";
 import Paddingcontainer from "../components/layout/PaddingContainer";
 import PageHeadline from "../components/layout/PageHeadline";
+import styled from "styled-components";
+
+const Spacer = styled.div`
+  padding: 3rem;
+`;
 
 const CategoryTemplate = props => {
   return (
     <Layout>
-      <SEO title={`${props.data.CategoryByID.frontmatter.name}`} />
+      <SEO title={`${props.data.CategoryByID.frontmatter.title}`} />
       <Paddingcontainer>
         <PageHeadline
-          title={props.data.CategoryByID.frontmatter.name}
+          title={props.data.CategoryByID.frontmatter.title}
           recipeCount={props.data.RecipeByCategory.edges.length}
         ></PageHeadline>
         <RecipeList>
@@ -29,6 +34,7 @@ const CategoryTemplate = props => {
           ))}
         </RecipeList>
       </Paddingcontainer>
+      <Spacer></Spacer>
     </Layout>
   );
 };
@@ -40,6 +46,7 @@ export const pageQuery = graphql`
       id
       frontmatter {
         name
+        title
       }
     }
     RecipeByCategory: allMarkdownRemark(

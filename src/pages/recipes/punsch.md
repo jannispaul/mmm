@@ -4,7 +4,7 @@ title: Punsch
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/test.png
-time: 1h
+time: 1 Stunde
 portions: 12
 ingredients:
   - 1.5 l Rotwein

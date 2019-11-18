@@ -4,7 +4,7 @@ title: Risotto mit Birne, Prosciutto und Salbei
 date: 2019-11-15T15:04:10.000Z
 description: “Sweet ripe pear matched with the delicate saltiness of prosciutto defines this creamy risotto that goes well with any roast meat or poultry. Pungent, crispy fried sage leaves give a special finishing touch to this dish.”
 featuredImage: /img/test.png
-time: 1h
+time: 1 Stunde
 portions: 4
 ingredients:
   - Olivenöl

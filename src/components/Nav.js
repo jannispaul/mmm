@@ -7,7 +7,7 @@ const Navigation = styled.nav`
   z-index: 100;
   width: 100%;
   height: 80px;
-  background: var(--color-primary);
+  background: var(--color-black);
   display: flex;
   justify-content: space-between;
   /* grid-template-columns: repeat(6, 1fr); */
@@ -31,8 +31,8 @@ const Logo = styled(Link).attrs({ activeClassName: activeClassName })`
   }
 
   &:hover {
-    /* color: var(--color-white); */
-    opacity: 0.8;
+    color: var(--color-primary);
+    opacity: 1;
   }
 `;
 
@@ -47,11 +47,11 @@ const NavLink = styled(Link).attrs({
   margin-left: 1rem;
 
   &.${activeClassName} {
-    color: var(--color-white);
+    color: var(--color-primary);
     opacity: 1;
   }
   &:hover {
-    color: var(--color-white);
+    color: var(--color-primary);
     opacity: 1;
   }
 `;

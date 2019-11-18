@@ -1,6 +1,6 @@
 :root {
   /* main colors */
-  --color-primary: #0000ff;
+  --color-primary: yellow;
   --color-primary-light: #3a478f;
   --color-primary-dark: #19284d;
 
@@ -14,7 +14,7 @@
   --color-dark: #7b7a7d;
   --color-medium: #5e728d;
   --color-light: #ededed;
-  --color-lighter: #fafafa;
+  --color-lighter: #f9f8f4;
   --color-white: white;
 
   /* colors - feedback */

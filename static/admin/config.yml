@@ -34,7 +34,8 @@ collections:
           label: "Time",
           name: "time",
           widget: "select",
-          options: ["15min", "30min", "1h", "2h+"],
+          options:
+            ["15 min", "30 min", "1 Stunde", "90 min", "Mehrere Stunden"],
         }
       - {
           label: "Portions",
