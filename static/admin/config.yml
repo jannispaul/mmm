@@ -47,7 +47,12 @@ collections:
           max: 10,
           step: 1,
         }
-      - { label: "Ingredients", name: "ingredients", widget: "list" }
+      - {
+          label: "Ingredients",
+          name: "ingredients",
+          widget: "list",
+          field: "text",
+        }
       - label: "Category"
         name: "category"
         widget: "select"
@@ -72,4 +77,5 @@ collections:
           widget: "hidden",
           default: "category",
         }
-      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Englischer Bezeichner", name: "name", widget: "string" }
+      - { label: "Titel auf MHM", name: "title", widget: "string" }
