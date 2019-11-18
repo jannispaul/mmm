@@ -47,12 +47,7 @@ collections:
           max: 10,
           step: 1,
         }
-      - {
-          label: "Ingredients",
-          name: "ingredients",
-          widget: "list",
-          field: "text",
-        }
+      - { label: "Ingredients", name: "ingredients", widget: "list" }
       - label: "Category"
         name: "category"
         widget: "select"
