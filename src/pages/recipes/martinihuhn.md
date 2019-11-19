@@ -2,8 +2,8 @@
 templateKey: recipe
 title: Martinihuhn
 date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
-featuredImage: /img/test.png
+description: tbd
+featuredImage: /img/b985b6851fbc2da0a3ca72b412e0db7c.jpg
 time: Mehrere Stunden
 portions: 6
 ingredients:
@@ -19,23 +19,16 @@ ingredients:
   - Pfeffer
   - Honig
 category:
-  - desserts
+  - maindishes
 tags:
   - Winter
-  - chemex
+  - ''
 ---
-
-cluded in the collection of the Museum of Modern Art in New York City.
-
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+1. Die Hähnchenkeulen gründlich mit warmem Wasser waschen, mit küchenkrepp trocknen und mit den Fingern unter die Haut gehen, damit diese sich etwas löst. da dann kleine kräuterzweiglein reinschieben , ( also unter die Haut) , zwei pro keule. Fleisch kräftig salzen und pfeffern. Einen Topf, in dem die Keulen gerade eben Platz haben, mit Olivenöl erhitzen, keulen kräftig von allen Seiten anbraten ( eventuell in 2 Partien). 
+2. Dann so viel Martini angießen, dass das Fleisch bedeckt ist, die Schalotten schälen und mit in den Topf geben. Deckel drauf, Temperatur so einstellen, dass es leise köchelt. Uhr auf 40 Minuten stellen. 
+3. Inzwischen die Paprika waschen, putzen und in grobe Stücke schneiden, etwa so groß wie ne Streichholzschachtel. 
+4. Wenn die Uhr klingelt, die Paprika mit in den Topf geben und alles noch mal 10 Minuten weiterkochen lassen ohne Deckel. Dann müßten die Hähnchen gut sein, das heißt, am Bein müsste der Knochen zu sehen sein, also freiliegen, das Fleisch sollte sich schon langsam vom Knichen lösen . Wenn das so ist, das fleich aus dem Topf nehmen. Auf einen Teller und etwas abkühlen lassen. 
+5. Währenddessen das Mehl in einer Schale mit etwas  Sahne glattrühren, am besten mit dem Schneebesen. Achtung! Klumpt leicht, deshalb sehr gründlich rühren. Nach und nach die ganze Sahne einrühren und das Gemisch unter Rühren in den kochenden Sud rühren und erneut aufkochen. Rund zehn Minuten offen kochen lassen, ab und zu umrühren.
+6. Von Fleisch die Haut mit Kräutern ablösen, dann das Fleisch ablösen. Haut, Knorpel  und Knochen wegwerfen.
+7. Den Sud mit salz, Pfeffer und etwas Honig würzen und abschmecken , dann das Fleisch hineingeben und abkühlen lassen. Über Nacht km Kühlschrank aufbewahren, am nächsten Tag aufkochen und noch mal abschmecken. 
+8. Mit frischem Baguette in tiefen Tellern servieren, der Sud ist das leckerste!
