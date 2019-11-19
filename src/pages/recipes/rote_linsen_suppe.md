@@ -3,7 +3,7 @@ templateKey: recipe
 title: Rote Linsen Suppe
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/09appe600.1.jpg
 time: 1 Stunde
 portions: 4
 ingredients:
@@ -22,10 +22,11 @@ ingredients:
   - 1 quart Huhn oder Rindfond
   - 2 cups Wasser
   - Zitronensaft (nach geschmack)
-
 category:
   - maindishes
 tags:
+  - Suppe
+  - ''
 ---
 
 1. In a large pot, heat 3 tablespoons oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.
