@@ -3,7 +3,7 @@ templateKey: recipe
 title: Zucchini Snecken mit Tomatensauce
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/zucchini_cannelloni-7.jpg
 time: 30 min
 portions: 2
 ingredients:
@@ -16,10 +16,12 @@ ingredients:
   - Salz
   - Pfeffer
   - 100g Ricotta
-
 category:
   - maindishes
 tags:
+  - Healthy
+  - Gesund
+  - ''
 ---
 
 1. Den Backofen auf 180 Grad vorheizen.
