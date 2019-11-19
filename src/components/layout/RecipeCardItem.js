@@ -67,7 +67,10 @@ const RecipeCardItem = props => (
     <Link to={props.slug}>
       {/* <StyledImage sizes={props.featuredImage.sizes} /> */}
       {props.featuredImage ? (
-        <StyledImage fluid={props.featuredImage.childImageSharp.fluid}>
+        <StyledImage
+          // fixed={props.featuredImage.childImageSharp.fixed}
+          fluid={props.featuredImage.childImageSharp.fluid}
+        >
           {/* <PreviewCompatibleImage
             imageInfo={{
               image: props.featuredImage,

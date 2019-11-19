@@ -66,12 +66,12 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
-                 
+
                 portions
                 time
                 featuredImage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 289, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
