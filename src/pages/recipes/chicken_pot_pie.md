@@ -3,7 +3,7 @@ templateKey: recipe
 title: Chicken Pot Pie
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/skillet-chicken-pot-pie-1.jpg
 time: Mehrere Stunden
 portions: 4
 ingredients:
