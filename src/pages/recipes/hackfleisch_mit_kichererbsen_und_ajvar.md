@@ -3,7 +3,7 @@ templateKey: recipe
 title: Hackfleisch mit Kichererbsen und Ajvar
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/kichererbsenpfanne-1250675.jpg
 time: 30 min
 portions: 4
 ingredients:
@@ -17,10 +17,15 @@ ingredients:
   - etc.)
   - 1 große Dose Kickererbsen
   - 100g Feta
-
 category:
   - maindishes
 tags:
+  - Middle Eastern
+  - Fleisch
+  - ''
 ---
-
-Sautee the onions and garlic in olive oil on medium heat until translucent and fragrant. Turn up heat and add ground beef and cook for a few minutes. Add peppers and cook until beef is browned. Add ajvar and seasoning. Add chickpeas, cook until warm and serve.
+1. Die Zwiebeln und den Knoblauch in Olivenöl bei mittlerer Hitze anbraten, bis sie durchscheinend und duftend sind.
+2. Die Hitze aufwärmen und Rinderhackfleisch hinzufügen und einige Minuten kochen lassen. 
+3. Paprika hinzufügen und kochen, bis das Rindfleisch gebräunt ist. 
+4. Ajvar und Gewürze hinzufügen. 
+5. Kichererbsen hinzufügen, warm kochen und servieren.
