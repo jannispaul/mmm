@@ -24,4 +24,4 @@ category:
 tags:
 ---
 
-Slice red onions and pickle in a small bowl with sugar and apple cider vinegar. Set aside until ready for serving., Cook meat to taste (z.B. sautee with onions and garlic, cumin, cayenne pepper). , Prepare ingredients and serve.
+Slice red onions and pickle in a small bowl with sugar and apple cider vinegar. Set aside until ready for serving. Cook meat to taste (z.B. sautee with onions and garlic, cumin, cayenne pepper). , Prepare ingredients and serve.

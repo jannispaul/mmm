@@ -17,4 +17,4 @@ category:
 tags:
 ---
 
-Bring a large pot of salt water to boil and cook pasta to box instructions., Toast pine nuts in a small pan., Prepare pesto, tomatoes, and mozzarella., Toss in a large bowl and chill in fridge until cooled.
+Bring a large pot of salt water to boil and cook pasta to box instructions. Toast pine nuts in a small pan. Prepare pesto, tomatoes, and mozzarella. Toss in a large bowl and chill in fridge until cooled.

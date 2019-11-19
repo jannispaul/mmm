@@ -17,4 +17,4 @@ category:
 tags:
 ---
 
-Cook eggs scrambled to desired consistency., Combine ingredients in tortillas and roll up like a burrito., Serve right away or store in fridge for a few days.
+Cook eggs scrambled to desired consistency. Combine ingredients in tortillas and roll up like a burrito. Serve right away or store in fridge for a few days.

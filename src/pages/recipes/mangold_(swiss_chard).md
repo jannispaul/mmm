@@ -19,4 +19,4 @@ category:
 tags:
 ---
 
-Sautee the onions and garlic in olive oil over medium heat until translucent and fragrant. , Turn up the heat, add apples and cook until just brown., Deglaze with white wine and apple cider vinegar. , Add swiss chard and cook until just wilted.
+Sautee the onions and garlic in olive oil over medium heat until translucent and fragrant. , Turn up the heat, add apples and cook until just brown. Deglaze with white wine and apple cider vinegar. , Add swiss chard and cook until just wilted.

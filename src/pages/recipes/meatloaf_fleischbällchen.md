@@ -22,4 +22,4 @@ category:
 tags:
 ---
 
-1. Den Ofen auf 175°C vorheizen und eine Auflaufform einfetten. , , 2. Die Karotten schälen und reiben, die Zwiebeln und den Knoblauch fein hacken. , , 3. Fleisch, Karotten, Zwiebel, Knoblauch, Ei, Pfanne, Parmesan und etwas Ketchup in einer Schüssel mischen. , , 4. In einer kleineren Schüssel etwas Ketchup und braunen Zucker mischen. , , 5. Mit den Händen 1-2 inch/3,5 cm Kugeln formen und in gleichmäßig verteilten Reihen platzieren., , 6. Die Ketchup-Zuckerglasur auf jeder Kugel streichen. Ca. 20 Minuten backen., , Servieren!
+1. Den Ofen auf 175°C vorheizen und eine Auflaufform einfetten. , , 2. Die Karotten schälen und reiben, die Zwiebeln und den Knoblauch fein hacken. , , 3. Fleisch, Karotten, Zwiebel, Knoblauch, Ei, Pfanne, Parmesan und etwas Ketchup in einer Schüssel mischen. , , 4. In einer kleineren Schüssel etwas Ketchup und braunen Zucker mischen. , , 5. Mit den Händen 1-2 inch/3,5 cm Kugeln formen und in gleichmäßig verteilten Reihen platzieren. 6. Die Ketchup-Zuckerglasur auf jeder Kugel streichen. Ca. 20 Minuten backen. Servieren!

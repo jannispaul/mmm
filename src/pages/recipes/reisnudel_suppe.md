@@ -26,4 +26,4 @@ category:
 tags:
 ---
 
-Mix chicken breasts with 1 TL Chilisauce and 1 TL Sojasauce. Cook separately in a pan., Sautee onions and garlic in a medium pot. Add carrots and continue satueeing for 10 minutes., Add Hühnerfond, Salz, Sambal Oelek und restliche Sojasauce und Chilisauce., Add Zuckerschoten and some of the Frühlingszwieblen and cook for a few minutes., Add Reisnudeln and cook until done, ~3 minutes., Serve with Frühlingszwiebeln und Sesam.
+Mix chicken breasts with 1 TL Chilisauce and 1 TL Sojasauce. Cook separately in a pan. Sautee onions and garlic in a medium pot. Add carrots and continue satueeing for 10 minutes. Add Hühnerfond, Salz, Sambal Oelek und restliche Sojasauce und Chilisauce. Add Zuckerschoten and some of the Frühlingszwieblen and cook for a few minutes. Add Reisnudeln and cook until done, ~3 minutes. Serve with Frühlingszwiebeln und Sesam.

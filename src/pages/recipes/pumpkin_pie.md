@@ -21,4 +21,4 @@ category:
 tags:
 ---
 
-1. Den Ofen auf 425°F/220°C erhitzen. , 2. Kürbispüree, gesüßte Kondensmilch, Eier, Gewürze und Salz in einer mittleren Schüssel glatt rühren. In die Piekruste gießen., , 3. 15 Minuten im Ofen backen. Danach die Ofentemperatur auf 350°F/175°C Reduzieren; für 35 bis 40 Minuten (bis einer Zahnstocher sauber rauskommt) weiter backen. , Abkühlen lassen und servieren.
+1. Den Ofen auf 425°F/220°C erhitzen. , 2. Kürbispüree, gesüßte Kondensmilch, Eier, Gewürze und Salz in einer mittleren Schüssel glatt rühren. In die Piekruste gießen. 3. 15 Minuten im Ofen backen. Danach die Ofentemperatur auf 350°F/175°C Reduzieren; für 35 bis 40 Minuten (bis einer Zahnstocher sauber rauskommt) weiter backen. , Abkühlen lassen und servieren.

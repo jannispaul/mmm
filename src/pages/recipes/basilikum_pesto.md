@@ -20,4 +20,4 @@ category:
 tags:
 ---
 
-1. Alle Zutaten zusammen pürieren, wobei die Menge dem Geschmack und der Portionsgröße angepasst wird. , , Frisch mit Nudeln servieren oder eine Woche im Kühlschrank aufbewahren.
+Alle Zutaten zusammen pürieren, wobei die Menge dem Geschmack und der Portionsgröße angepasst wird. Frisch mit Nudeln servieren oder bis zu eine Woche im Kühlschrank aufbewahren.

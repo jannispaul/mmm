@@ -17,4 +17,4 @@ category:
 tags:
 ---
 
-Put peeled potatoes and peeled garlic into large pot of water. Bring to boil and cook until very tender., Drain and mash potatoes in pot or bowl. Add butter, heavy cream, and salt to taste.
+Put peeled potatoes and peeled garlic into large pot of water. Bring to boil and cook until very tender. Drain and mash potatoes in pot or bowl. Add butter, heavy cream, and salt to taste.

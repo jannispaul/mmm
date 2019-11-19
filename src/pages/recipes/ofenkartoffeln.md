@@ -16,4 +16,4 @@ category:
 tags:
 ---
 
-Preheat oven to 200 Celcius., Wash and cut potatoes into 1-inch long, 1/4 inch thick sticks. Toss with olive oil, garlic, and other herbs. , Bake on a parchment lined baking sheet for ~30-40 minutes until golden brown and crispy, stirring once halfway through., Salt after removing and serve.
+Preheat oven to 200 Celcius. Wash and cut potatoes into 1-inch long, 1/4 inch thick sticks. Toss with olive oil, garlic, and other herbs. , Bake on a parchment lined baking sheet for ~30-40 minutes until golden brown and crispy, stirring once halfway through. Salt after removing and serve.
