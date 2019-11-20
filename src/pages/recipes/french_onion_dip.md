@@ -3,7 +3,7 @@ templateKey: recipe
 title: French Onion Dip
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/healthy-french-onion-dip-photo-vert.jpg
 time: 90 min
 portions: 4
 ingredients:
@@ -25,6 +25,8 @@ ingredients:
 category:
   - appetizers
 tags:
+  - Dip
+  - ''
 ---
 
 1. Öl in einer kleinen Pfanne auf mittlerer Stufe erhitzen. Zwiebel, Knoblauch und Thymian unter gelegentlichem Rühren kochen, bis die Zwiebel tief goldbraun und sehr weich sind, 35-40 Minuten.
