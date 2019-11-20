@@ -3,7 +3,7 @@ templateKey: recipe
 title: Kartoffelbrei
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/perfect-mashed-potatoes-vertical-a-1800.jpg
 time: 1 Stunde
 portions: 5
 ingredients:
@@ -15,6 +15,8 @@ ingredients:
 category:
   - sidedishes
 tags:
+  - Kartoffeln
+  - ''
 ---
 
 Put peeled potatoes and peeled garlic into large pot of water. Bring to boil and cook until very tender. Drain and mash potatoes in pot or bowl. Add butter, heavy cream, and salt to taste.
