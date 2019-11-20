@@ -3,7 +3,7 @@ templateKey: recipe
 title: Süßkartoffel Confit mit Chorizo und Crème Fraîche
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/15chef2-articlelarge-v2.jpg
 time: 90 min
 portions: 6
 ingredients:
@@ -20,10 +20,12 @@ ingredients:
   - roughly chopped
   - 1⁄4 cup mint leaves
   - torn
-
 category:
-  - sidedishes
+  - maindishes
+  - appetizers
 tags:
+  - Dinner Party
+  - ''
 ---
 
 1. In a small bowl, mix together crème fraîche and citrus juice and refrigerate until you are ready to assemble the dish. Heat oven to 350 degrees.
