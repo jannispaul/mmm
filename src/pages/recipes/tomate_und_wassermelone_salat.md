@@ -3,12 +3,11 @@ templateKey: recipe
 title: Tomate und Wassermelone Salat
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/20160620-watermelon-feta-mint-salad-22.jpg
 time: 15 min
 portions: 4
 ingredients:
-  - 4 to 6 large tomatoes
-  - ideally heirloom varieties
+  - 4 bis 6 große Tomaten
   - cut into 1 1/4­ inch cubes
   - 1 small seedless watermelon
   - cut into 1 1/4­inch cubes
@@ -21,6 +20,8 @@ ingredients:
 category:
   - appetizers
 tags:
+  - Salat
+  - Sommer
 ---
 
 1. Combine the cubed tomatoes and watermelon in a large, nonreactive bowl and toss gently to combine. Add salt and let stand 5 to 10 minutes while you prepare the dressing.
