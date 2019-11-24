@@ -3,7 +3,7 @@ templateKey: recipe
 title: Kokoscurry Pfanne
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/thai-curry-gemuese-3.jpg
 time: 30 min
 portions: 4
 ingredients:
@@ -21,6 +21,11 @@ ingredients:
 category:
   - maindishes
 tags:
+  - Asiatisch
+  - Curry
+  - Gemüse
+  - Hähnchen
+  - ''
 ---
 
 Start cooking rice. Sautee chicken in a large wok or pan over medium high heat. Remove after mainly cooked through. Prepare vegetable and sautee until just tender, adding curry paste, coconut milk, and quick cooking ingredients like pineapple or Zuckerschoten towards the end.
