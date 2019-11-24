@@ -3,7 +3,7 @@ templateKey: recipe
 title: Bananenbrot
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/banana-bread-3.jpg
 time: 1 Stunde
 portions: 1
 ingredients:
@@ -18,10 +18,13 @@ ingredients:
   - beaten
   - 1 teaspoon vanilla extract
   - 1 1/2 cups of all-purpose flour
-
 category:
   - desserts
 tags:
+  - Ofen
+  - Backen
+  - Brot
+  - ''
 ---
 
 1. Preheat the oven to 350°F (175°C), and butter a 4x8-inch loaf pan.
