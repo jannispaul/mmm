@@ -71,8 +71,8 @@ export default () => (
                 time
                 featuredImage {
                   childImageSharp {
-                    fluid(maxWidth: 289, quality: 100) {
-                      ...GatsbyImageSharpFluid
+                    fluid(maxWidth: 289, quality: 65) {
+                      ...GatsbyImageSharpFluid_withWebp
                     }
                   }
                 }

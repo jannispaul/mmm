@@ -12,7 +12,7 @@ const Navigation = styled.nav`
   justify-content: space-between;
   /* grid-template-columns: repeat(6, 1fr); */
   align-items: center;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 500;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
   padding-left: var(--space-m);

@@ -66,7 +66,7 @@ const Title = styled.h1`
 `;
 const Headline2 = styled.h2`
   max-width: 600px;
-  margin-bottom: calc(0.5 * var(--space-s));
+  margin-bottom: var(--space-s);
   margin-left: auto;
   margin-right: auto;
   text-align: left;
@@ -132,6 +132,28 @@ const DirectionsContainer = styled.div`
   & > div {
     max-width: 600px;
     margin: auto;
+  }
+  & ol li {
+    counter-increment: my-awesome-counter;
+    display: flex;
+    width: 100%;
+    /* font-size: 0.8rem; */
+    margin-bottom: 1.5rem;
+  }
+  & ol li::before {
+    content: counter(my-awesome-counter) ".";
+    font-weight: bold;
+    min-width: 1rem;
+    font-size: 18px;
+    /* opacity: 0.1; */
+    text-align: right;
+    /* margin-top: -1rem; */
+    /* margin-left: -6rem; */
+    margin-right: 0.2rem;
+    font-family: "PP Woodland";
+    /* line-height: 1; */
+    font-weight: 600;
+    color: var(--color-black);
   }
   @media (min-width: 1200px) {
     min-height: calc(100vh - 80px);
@@ -235,8 +257,8 @@ export const pageQuery = graphql`
         ingredients
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 2890, quality: 100) {
-              ...GatsbyImageSharpFluid
+            fluid(maxWidth: 2890, quality: 65) {
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }
