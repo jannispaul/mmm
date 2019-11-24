@@ -3,9 +3,9 @@ templateKey: recipe
 title: Punsch
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/gluehwein-mit-miniorangen.jpg
 time: 1 Stunde
-portions: 12
+portions: 10
 ingredients:
   - 1.5 l Rotwein
   - 1.5 l Starker schwarzer Tee
@@ -18,6 +18,8 @@ ingredients:
 category:
   - drinks
 tags:
+  - Winter
+  - ''
 ---
 
 Cook all ingredients in a pot until thoroughly warmed and flavors mingled.
