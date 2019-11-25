@@ -6,11 +6,11 @@ const FooterContainer = styled.footer`
   background: var(--color-light);
   width: 100%;
   padding: var(--space-l);
-  z-index:0;
+  z-index: 0;
   position: relative;
-  &>div{
+  & > div {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
   }
 `
 

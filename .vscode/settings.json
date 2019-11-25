@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+    "editor.lineHeight": 30,
+    "git.confirmSync": false,
+    "emmet.showSuggestionsAsSnippets": true,
+    // "emmet.triggerExpansionOnTab": true,
+    "editor.tabSize": 4,
+    "emmet.includeLanguages": {
+        "html": "html",
+        "javascript": "javascriptreact"
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    // "terminal.integrated.shell.osx": "zsh",
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false
+}

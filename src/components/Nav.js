@@ -1,6 +1,6 @@
-import React from "react";
-import { Link } from "gatsby";
-import styled from "styled-components";
+import React from 'react'
+import { Link } from 'gatsby'
+import styled from 'styled-components'
 
 const Navigation = styled.nav`
   position: fixed;
@@ -17,11 +17,11 @@ const Navigation = styled.nav`
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
   padding-left: var(--space-m);
   padding-right: var(--space-m);
-`;
-const activeClassName = "active";
+`
+const activeClassName = 'active'
 
 const Logo = styled(Link).attrs({ activeClassName: activeClassName })`
-  font-family: "PP Woodland";
+  font-family: 'PP Woodland';
   font-size: 1.5rem;
   color: var(--color-white);
   opacity: 0.9;
@@ -34,10 +34,10 @@ const Logo = styled(Link).attrs({ activeClassName: activeClassName })`
     color: var(--color-primary);
     opacity: 1;
   }
-`;
+`
 
 const NavLink = styled(Link).attrs({
-  activeClassName: activeClassName
+  activeClassName: activeClassName,
 })`
   letter-spacing: 1px;
   font-weight: 600;
@@ -54,7 +54,7 @@ const NavLink = styled(Link).attrs({
     color: var(--color-primary);
     opacity: 1;
   }
-`;
+`
 
 const Nav = () => (
   <Navigation>
@@ -67,6 +67,6 @@ const Nav = () => (
       <NavLink to="/categories/drinks">Getränke</NavLink>
     </div>
   </Navigation>
-);
+)
 
-export default Nav;
+export default Nav

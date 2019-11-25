@@ -1,13 +1,13 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { graphql, StaticQuery } from "gatsby";
+import React from 'react'
+import PropTypes from 'prop-types'
+import { graphql, StaticQuery } from 'gatsby'
 // import PreviewCompatibleImage from "./PreviewCompatibleImage";
-import RecipeCardItem from "./layout/RecipeCardItem";
+import RecipeCardItem from './layout/RecipeCardItem'
 
 class AllRecipes extends React.Component {
   render() {
-    const { data } = this.props;
-    const { edges: recipes } = data.allMarkdownRemark;
+    const { data } = this.props
+    const { edges: recipes } = data.allMarkdownRemark
 
     return (
       <div className="columns is-multiline">
@@ -25,17 +25,17 @@ class AllRecipes extends React.Component {
             </div>
           ))}
       </div>
-    );
+    )
   }
 }
 
 AllRecipes.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
-};
+      edges: PropTypes.array,
+    }),
+  }),
+}
 
 export default () => (
   <StaticQuery
@@ -74,4 +74,4 @@ export default () => (
     `}
     render={(data, count) => <AllRecipes data={data} count={count} />}
   />
-);
+)

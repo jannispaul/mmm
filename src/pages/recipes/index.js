@@ -1,11 +1,11 @@
-import React from "react";
-import { StaticQuery, graphql } from "gatsby";
-import Layout from "../../components/Layout";
-import SEO from "../../components/Seo";
-import RecipeList from "../../components/layout/RecipeList";
-import Paddingcontainer from "../../components/layout/PaddingContainer";
-import PageHeadline from "../../components/layout/PageHeadline";
-import RecipeCardItem from "../../components/layout/RecipeCardItem";
+import React from 'react'
+import { StaticQuery, graphql } from 'gatsby'
+import Layout from '../../components/Layout'
+import SEO from '../../components/Seo'
+import RecipeList from '../../components/layout/RecipeList'
+import Paddingcontainer from '../../components/layout/PaddingContainer'
+import PageHeadline from '../../components/layout/PageHeadline'
+import RecipeCardItem from '../../components/layout/RecipeCardItem'
 
 class AllRecipesIndexPage extends React.Component {
   render() {
@@ -31,7 +31,7 @@ class AllRecipesIndexPage extends React.Component {
           </RecipeList>
         </Paddingcontainer>
       </Layout>
-    );
+    )
   }
 }
 export default () => (
@@ -71,4 +71,4 @@ export default () => (
     `}
     render={(data, count) => <AllRecipesIndexPage data={data} count={count} />}
   />
-);
+)

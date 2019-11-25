@@ -1,8 +1,8 @@
-import React from "react";
-import Img from "gatsby-image";
+import React from 'react'
+import Img from 'gatsby-image'
 
-import { Link } from "gatsby";
-import styled from "styled-components";
+import { Link } from 'gatsby'
+import styled from 'styled-components'
 // import PreviewCompatibleImage from "../PreviewCompatibleImage";
 
 // import propTypes from "prop-types"
@@ -22,7 +22,7 @@ const StyledImage = styled(Img)`
   /* box-shadow: 0px 0px 10px rgba(64, 0, 0, 0.09); */
   /* display: flex;
   align-items: center; */
-`;
+`
 const RecipeCard = styled.div`
   position: relative;
   background: none;
@@ -32,7 +32,7 @@ const RecipeCard = styled.div`
     transform: translateY(-2px);
     transition: all var(--time-short);
   }
-`;
+`
 const Title = styled.h3`
   /* padding: 1rem 0; */
   margin-bottom: 5px;
@@ -40,7 +40,7 @@ const Title = styled.h3`
   line-height: 26px;
   font-size: 18px;
   z-index: 10;
-`;
+`
 const MetaInfoContainer = styled.div`
   width: 100%;
   bottom: 0;
@@ -54,13 +54,13 @@ const MetaInfoContainer = styled.div`
   font-weight: 600;
   padding: 1rem 0 0.5rem;
   /* border-top: 3px solid var(--color-light); */
-`;
+`
 const MetaDetail = styled.p`
   color: var(--color-medium);
   align-self: center;
   display: inline-block;
   margin-right: 1rem;
-`;
+`
 
 const RecipeCardItem = props => (
   <RecipeCard>
@@ -96,6 +96,6 @@ const RecipeCardItem = props => (
       <Title>{props.title}</Title>
     </Link>
   </RecipeCard>
-);
+)
 
-export default RecipeCardItem;
+export default RecipeCardItem

@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react'
 
-import Layout from "../../components/Layout";
+import Layout from '../../components/Layout'
 // import AllRecipes from "../../components/AllRecipes";
 
 export default class CategoriesIndexPage extends React.Component {
@@ -12,6 +12,6 @@ export default class CategoriesIndexPage extends React.Component {
           {/* <AllRecipes /> */}
         </section>
       </Layout>
-    );
+    )
   }
 }

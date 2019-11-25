@@ -1,5 +1,5 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react'
+import styled from 'styled-components'
 
 const ItemList = styled.div`
   display: grid;
@@ -8,8 +8,8 @@ const ItemList = styled.div`
   grid-row-gap: 3rem;
   margin-top: 2rem;
   padding-bottom: 1rem;
-`;
+`
 
-const RecipeList = ({ children }) => <ItemList>{children}</ItemList>;
+const RecipeList = ({ children }) => <ItemList>{children}</ItemList>
 
-export default RecipeList;
+export default RecipeList
