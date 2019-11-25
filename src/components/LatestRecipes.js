@@ -67,7 +67,7 @@ export default () => (
                 featuredImage {
                   childImageSharp {
                     fluid(maxWidth: 289, quality: 65) {
-                      ...GatsbyImageSharpFluid_withWebp
+                      ...GatsbyImageSharpFluid_withWebp_tracedSVG
                     }
                   }
                 }

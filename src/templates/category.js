@@ -1,16 +1,16 @@
-import React from 'react'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import SEO from '../components/Seo'
-import RecipeCardItem from '../components/layout/RecipeCardItem'
-import RecipeList from '../components/layout/RecipeList'
-import Paddingcontainer from '../components/layout/PaddingContainer'
-import PageHeadline from '../components/layout/PageHeadline'
-import styled from 'styled-components'
+import React from "react";
+import { graphql } from "gatsby";
+import Layout from "../components/Layout";
+import SEO from "../components/Seo";
+import RecipeCardItem from "../components/layout/RecipeCardItem";
+import RecipeList from "../components/layout/RecipeList";
+import Paddingcontainer from "../components/layout/PaddingContainer";
+import PageHeadline from "../components/layout/PageHeadline";
+import styled from "styled-components";
 
 const Spacer = styled.div`
   padding: 3rem;
-`
+`;
 
 const CategoryTemplate = props => {
   return (
@@ -36,9 +36,9 @@ const CategoryTemplate = props => {
       </Paddingcontainer>
       <Spacer></Spacer>
     </Layout>
-  )
-}
-export default CategoryTemplate
+  );
+};
+export default CategoryTemplate;
 
 export const pageQuery = graphql`
   query($id: String!, $category: String!) {
@@ -68,7 +68,7 @@ export const pageQuery = graphql`
             featuredImage {
               childImageSharp {
                 fluid(maxWidth: 289, quality: 65) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }
             }
@@ -77,4 +77,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

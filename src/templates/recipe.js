@@ -1,9 +1,9 @@
-import React from 'react'
-import { kebabCase } from 'lodash'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import Img from 'gatsby-image'
-import styled from 'styled-components'
+import React from "react";
+import { kebabCase } from "lodash";
+import { graphql, Link } from "gatsby";
+import Layout from "../components/Layout";
+import Img from "gatsby-image";
+import styled from "styled-components";
 
 const Hero = styled.div`
   width: 100vw;
@@ -11,7 +11,7 @@ const Hero = styled.div`
     display: grid;
     grid-template-columns: repeat(2, minmax(600px, 1fr));
   }
-`
+`;
 const MainContent = styled.div`
   padding: 0.5rem 0.5rem;
   position: relative;
@@ -37,11 +37,11 @@ const MainContent = styled.div`
     justify-content: center;
     text-align: left;
   }
-`
+`;
 const CenterContainer = styled.div`
   max-width: 600px;
   margin: auto;
-`
+`;
 
 const Title = styled.h1`
   max-width: 800px;
@@ -63,14 +63,14 @@ const Title = styled.h1`
     max-width: 600px;
     text-align: left;
   }
-`
+`;
 const Headline2 = styled.h2`
   max-width: 600px;
   margin-bottom: var(--space-s);
   margin-left: auto;
   margin-right: auto;
   text-align: left;
-`
+`;
 const MetaInfoContainer = styled.div`
   display: inline-block;
   margin: 0.5rem 0 4rem 0;
@@ -82,7 +82,7 @@ const MetaInfoContainer = styled.div`
   & > p:not(:last-child) {
     margin-right: 1rem;
   }
-`
+`;
 const IngredientsContainer = styled.div`
   background: var(--color-lighter);
   padding: 3rem 4rem;
@@ -94,7 +94,7 @@ const IngredientsContainer = styled.div`
     border: 1px solid var(--color-black);
     margin-bottom: 1rem;
   }
-`
+`;
 
 // const ScrollContent = styled.div`
 //   background: var(--color-light);
@@ -114,7 +114,7 @@ const StyledImage = styled(Img)`
   @media (min-width: 1200px) {
     height: calc(100vh - 80px);
   }
-`
+`;
 // const Label = styled(Link)`
 //   background: var(--color-primary);
 //   color: var(--color-white);
@@ -141,7 +141,7 @@ const DirectionsContainer = styled.div`
     margin-bottom: 1.5rem;
   }
   & ol li::before {
-    content: counter(my-awesome-counter) '.';
+    content: counter(my-awesome-counter) ".";
     font-weight: bold;
     min-width: 1rem;
     font-size: 18px;
@@ -150,7 +150,7 @@ const DirectionsContainer = styled.div`
     /* margin-top: -1rem; */
     /* margin-left: -6rem; */
     margin-right: 0.2rem;
-    font-family: 'PP Woodland';
+    font-family: "PP Woodland";
     /* line-height: 1; */
     font-weight: 600;
     color: var(--color-black);
@@ -158,7 +158,7 @@ const DirectionsContainer = styled.div`
   @media (min-width: 1200px) {
     min-height: calc(100vh - 80px);
   }
-`
+`;
 
 const IngredientListItem = styled.ul`
   & > li {
@@ -170,7 +170,7 @@ const IngredientListItem = styled.ul`
   @media (min-width: 600px) {
     column-count: 2;
   }
-`
+`;
 
 const RecipeTemplate = props => {
   return (
@@ -209,7 +209,7 @@ const RecipeTemplate = props => {
             {/* <PostContent content={content} /> */}
             <div
               dangerouslySetInnerHTML={{
-                __html: props.data.markdownRemark.html,
+                __html: props.data.markdownRemark.html
               }}
             />
             {/* <div>{props.data.markdownRemark.html}</div> */}
@@ -237,10 +237,10 @@ const RecipeTemplate = props => {
         {/* </ScrollContent> */}
       </Hero>
     </Layout>
-  )
-}
+  );
+};
 
-export default RecipeTemplate
+export default RecipeTemplate;
 
 export const pageQuery = graphql`
   query RecipeByID($id: String!) {
@@ -258,11 +258,11 @@ export const pageQuery = graphql`
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 2890, quality: 65) {
-              ...GatsbyImageSharpFluid_withWebp
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
             }
           }
         }
       }
     }
   }
-`
+`;
