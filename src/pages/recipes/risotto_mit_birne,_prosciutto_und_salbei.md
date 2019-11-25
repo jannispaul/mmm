@@ -1,9 +1,12 @@
 ---
 templateKey: recipe
-title: Risotto mit Birne, Prosciutto und Salbei
+title: 'Risotto mit Birne, Prosciutto und Salbei'
 date: 2019-11-15T15:04:10.000Z
-description: “Sweet ripe pear matched with the delicate saltiness of prosciutto defines this creamy risotto that goes well with any roast meat or poultry. Pungent, crispy fried sage leaves give a special finishing touch to this dish.”
-featuredImage: /img/test.png
+description: >-
+  “Sweet ripe pear matched with the delicate saltiness of prosciutto defines
+  this creamy risotto that goes well with any roast meat or poultry. Pungent,
+  crispy fried sage leaves give a special finishing touch to this dish.”
+featuredImage: /img/3756313.jpg
 time: 1 Stunde
 portions: 4
 ingredients:
@@ -27,10 +30,12 @@ ingredients:
   - • 80 mL (1⁄3 cup) trockener Weißwein
   - • 2 El. geriebene Parmigiano-Reggiano
   - • 1 El. Butter
-
 category:
   - maindishes
 tags:
+  - Italienisch
+  - Reis
+  - ''
 ---
 
 1. Set a small strainer over a heatproof bowl. Heat about 1⁄2 inch of olive or canola oil in a small saucepan over medium-high heat until shimmering but not smoking. Add the sliced prosciutto and sage leaves and fry just until crisp, 1 to 3 minutes. Drain in the strainer then spread out on a paper towel. Set aside.
