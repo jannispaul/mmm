@@ -8,14 +8,24 @@ time: 1 Stunde
 portions: 4
 ingredients:
   - 3-4 Hähnchenoberschenkel
-  - 2 Rote Paprika
-  - Schalloten und/oder Zwiebeln
-  - Kartoffeln (klein)
-  - Dosentomaten (Stücke)
-  - Sweet & Sour Chili Sauce
+  - 2 rote Paprika
+  - Schalotten und/oder Zwiebeln
+  - kleine Kartoffeln
+  - 1 Dose gestückelte Tomaten
+  - Sweet & Sour Chilisauce
 category:
   - maindishes
 tags:
+  - Ofen
+  - Hähnchen
+  - Fleisch
+  - ''
 ---
-
-Preheat the oven to 200 Celsius, Pat the chicken thighs down with paper towel and season generously with salt. Place the chicken thighs skin down in a large pan. Turn heat up to medium high and cook for ~15 minutes until skin is throughouly browned. Don't move them around too much while cooking. Remove from pan and set aside skin side up. Add potatoes to pan used to cook chicken and sautee on high heat for ~10 minutes until brown. Mix peppers, shallots, canned tomatoes, and chili sauce on baking sheet. Distribute evenly. Add potatoes so that they are partially covered. Add chicken thighs skin side up, nestling them in the sauce without submerging the skin. Bake for ~30-40 minutes until potatoes are cooked through.
+1. Backofen auf 200ºC (400ºF) vorheizen. 
+2. Das Hähnchen mit Papiertuch abtrocknen und großzügig mit Salz würzen. Mit der Haut nach unten in eine große Pfanne legen. Die Hitze auf mittlere Stufe stellen und ca. 15 Minuten garen, bis die Haut braun und knusprig ist (nicht viel bewegen). 
+3. In der Zwischenzeit die Schalotten schälen und die Paprika in Zigarettenschachtel-Größe schneiden.
+4. Das Hähnchen aus der Pfanne nehmen und mit der Haut nach oben zur Seite stellen. 
+5. Kartoffeln in die selbe Pfanne geben und bei starker Hitze ca. 10 Minuten anbraten. 
+6. Paprika, Schalotten, Tomaten und Chilisauce auf dem Backblech gleichmäßig verteilen. Kartoffeln hinzufügen, so dass sie teilweise bedeckt sind. Danach das Hähnchen mit der Haut nach oben in die Sauce legen, ohne die Haut zu bedecken. 
+7. Etwa 30 bis 40 Minuten backen, bis die Kartoffeln durchgegart sind.
+8. Servieren!
