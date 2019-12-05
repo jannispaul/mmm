@@ -20,6 +20,6 @@ tags:
   - Frühstück
   - Breakfast
 ---
-1. Cook eggs scrambled to desired consistency. 
-2. Combine ingredients in tortillas and roll up like a burrito. 
-3. Serve right away or store in fridge for a few days.
+Tomaten würfeln. Ziegenkäse zerkrümeln. Die Eier rühren und auf gewünschte Konsistenz kochen. Alle Zutaten in ein Tortilla zugeben und wie ein Burrito aufrollen.
+
+Sofort Essen oder ein paar Tagen im Kühlschrank lagern – eine gute Mahlzeit für Unterwegs!
