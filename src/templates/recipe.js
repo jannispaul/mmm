@@ -56,6 +56,7 @@ const Title = styled.h1`
     width: 100%;
     bottom: 100%;
     padding: 3rem 2rem 0 2rem;
+    background: var(--color-white);
   }
   @media (min-width: 1200px) {
     position: relative;
@@ -63,6 +64,21 @@ const Title = styled.h1`
     max-width: 600px;
     text-align: left;
   }
+  /* span {
+    text-decoration: underline;
+  } */
+  /* span::after {
+    content: "";
+    height: 200px;
+    background: yellow;
+    width: 200px;
+    position: absolute;
+    left: -100px;
+    bottom: -50px;
+    top: -5px;
+    border-radius: 100%;
+    z-index: -1;
+  } */
 `;
 const Headline2 = styled.h2`
   max-width: 600px;
@@ -185,7 +201,9 @@ const RecipeTemplate = props => {
         />
         <MainContent>
           <CenterContainer>
-            <Title>{props.data.markdownRemark.frontmatter.title}</Title>
+            <Title>
+              <span>{props.data.markdownRemark.frontmatter.title}</span>
+            </Title>
             <MetaInfoContainer>
               <p>{props.data.markdownRemark.frontmatter.time}</p>
               <p>{props.data.markdownRemark.frontmatter.portions} Portionen</p>
