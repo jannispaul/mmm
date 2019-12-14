@@ -3,7 +3,7 @@ templateKey: recipe
 title: Pfannkuchen
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/oatmeal-pancakes-3.jpg
 time: 30 min
 portions: 8
 ingredients:
@@ -19,6 +19,8 @@ ingredients:
 category:
   - maindishes
 tags:
+  - Frühstück
+  - ''
 ---
 
 Sift (or whisk very well) flour, baking powder, baking soda, and salt together. Whisk the egg and buttermilk/yogurt together. Fold egg+yogurt into the flour mixture. Fold in the butter. Fry in more butter.

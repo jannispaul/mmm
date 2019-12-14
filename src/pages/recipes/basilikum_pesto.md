@@ -21,5 +21,4 @@ tags:
   - Sauce
   - ''
 ---
-
-Alle Zutaten zusammen pürieren, wobei die Menge dem Geschmack und der Portionsgröße angepasst wird. Frisch mit Nudeln servieren oder bis zu eine Woche im Kühlschrank aufbewahren.
+Alle Zutaten zusammen pürieren, Menge nach Geschmack und Portionsgröße anpassen. Frisch mit Nudeln servieren oder bis zu eine Woche im Kühlschrank aufbewahren.

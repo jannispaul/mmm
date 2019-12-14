@@ -3,7 +3,7 @@ templateKey: recipe
 title: Rote Linsen Suppe
 date: 2019-11-15T15:04:10.000Z
 description: tbd
-featuredImage: /img/09appe600.1.jpg
+featuredImage: /img/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-articlelarge.jpg
 time: 1 Stunde
 portions: 4
 ingredients:

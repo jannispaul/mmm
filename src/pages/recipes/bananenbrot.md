@@ -5,19 +5,16 @@ date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/banana-bread-3.jpg
 time: 1 Stunde
-portions: 1
+portions: 10
 ingredients:
-  - 2 to 3 very ripe bananas
-  - peeled
-  - 1/3 cup (75 grams) melted butter
-  - 1 teaspoon baking soda
-  - Pinch of salt
-  - 3/4 cup sugar (1/2 cup if you would like it less sweet
-  - 1 cup if more sweet)
-  - 1 large egg
-  - beaten
-  - 1 teaspoon vanilla extract
-  - 1 1/2 cups of all-purpose flour
+  - 2 bis 3 sehr reife Bananen
+  - 75 g (1/3 cup) geschmolzene Butter
+  - 1 Tl. Natron (baking soda)
+  - Priese Salz
+  - 100 g (3/4 cup) Zucker
+  - 1 großes Ei
+  - 1 Tl. Vanille
+  - 190 g (1 1/2 cups) Allzweckmehl
 category:
   - desserts
 tags:
@@ -26,9 +23,9 @@ tags:
   - Brot
   - ''
 ---
-
-1. Preheat the oven to 350°F (175°C), and butter a 4x8-inch loaf pan.
-2. In a mixing bowl, mash the ripe bananas with a fork until completely smooth. Stir the melted butter into the mashed bananas.
-3. Mix in the baking soda and salt. Stir in the sugar, beaten egg, and vanilla extract. Mix in the flour.
-4. Pour the batter into your prepared loaf pan. Bake for 50 minutes to 1 Stundeour at 350°F (175°C), or until a tester inserted into the center comes out clean.
-5. Remove from oven and let cool in the pan for a few minutes. Then remove the banana bread from the pan and let cool completely before serving. Slice and serve. (A bread knife helps to make slices that aren't crumbly.)
+1. Backofen auf 175°C (350°F) vorheizen. 4x8-Zoll-Kastenform mit Backpapier belegen.
+2. Die Bananen in einer Rührschüssel mit einer Gabel zerdrücken. Geschmolzene Butter danach einrühren.
+3. Backpulver, Salz, Zucker, geschlagenes Ei und Vanille unterrühren. Danach das Mehl unterrühren.
+4. Den Teig in die vorbereitete Kastenform gießen. Etwa 40 Minuten backen lassen, oder bis ein Holzstab sauber rauskommt. 
+5. Das Brot aus dem Ofen nehmen und in der Form einige Minuten abkühlen lassen. Danach aus der Pfanne nehmen und vollständig abkühlen lassen.
+6. Schneiden und servieren!
