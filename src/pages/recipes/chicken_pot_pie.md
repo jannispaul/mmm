@@ -7,18 +7,18 @@ featuredImage: /img/skillet-chicken-pot-pie-1.jpg
 time: Mehrere Stunden
 portions: 4
 ingredients:
-  - 1⁄4 cup/60g ungesalzene Butter
+  - 60g (1/4 cup) ungesalzene Butter
   - 1 große Schalotte
   - 1 El. frische Thymian
-  - 1⁄3 cup/43g Mehl
-  - 3 cups/700ml Hühnerfond
-  - 1 cup/236ml Vollmilch
+  - 43g (1/3 cup) Mehl
+  - 700ml (3 cups) Hühnerfond
+  - 236ml (1 cup) Vollmilch
   - Salz und Pfeffer
   - 6 kleine Möhren
   - 2 Zwiebeln
-  - 4 cups/128g Hühnerfleisch (z.B. das Brustfleisch vom Rotisserie-Chicken)
-  - 1 1⁄2 cups/190g Tiefkühlerbsen (aufgetaucht)
-  - 14-oz./400g Blätterteig (im Kühlschrank aufgetaucht)
+  - 128g (4 cups) Hühnerfleisch (z.B. das Brustfleisch vom Rotisserie-Chicken)
+  - 190g (1 1/2 cups) Tiefkühlerbsen (aufgetaucht)
+  - 400g (14-oz.) Blätterteig (im Kühlschrank aufgetaucht)
   - 1 große Eier
 category:
   - maindishes
