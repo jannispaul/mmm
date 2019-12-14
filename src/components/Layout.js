@@ -36,13 +36,11 @@ const Layout = ({ children }) => (
           meta={[
             {
               name: "description",
-              content:
-                "Wir freuen uns auf Sie – Ihre Hausarztpraxis Schulzendorf. Ärztin Peggy von Niederhäusern sofgt für die ganze Familie ✓ Öffnungszeiten ✓ Kontakt ✓ Termine"
+              content: "None"
             },
             {
               name: "keywords",
-              content:
-                "Hausarzt, Arztpraxis, krank, Schulzendorf, Peggy von Niederhäusern, Familienarzt, Kinderarzt, Grippe, Impfung, Untersuchung, Hausbesuch"
+              content: "None"
             }
           ]}
         >

@@ -13,7 +13,7 @@ public_folder: /img
 
 collections:
   - name: "recipes"
-    label: "Recipes"
+    label: "Rezepte"
     folder: "src/pages/recipes"
     create: true
     slug: "{{slug}}"
@@ -24,27 +24,27 @@ collections:
           widget: "hidden",
           default: "recipe",
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Titee", name: "title", widget: "string" }
+      - { label: "Veröffentlichung", name: "date", widget: "datetime" }
+      # - { label: "Beschreibung", name: "description", widget: "text" }
       # - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
-      - { label: "Featured Image", name: "featuredImage", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Hauptbild", name: "featuredImage", widget: "image" }
+      - { label: "Anweisungen", name: "body", widget: "markdown" }
       - {
-          label: "Time",
+          label: "Dauer",
           name: "time",
           widget: "select",
           options:
             ["15 min", "30 min", "1 Stunde", "90 min", "Mehrere Stunden"],
         }
       - {
-          label: "Portions",
+          label: "Portionen",
           name: "portions",
           widget: "number",
           default: 4,
           valueType: "int",
           min: 1,
-          max: 10,
+          max: 50,
           step: 1,
         }
       - { label: "Ingredients", name: "ingredients", widget: "list" }
@@ -61,7 +61,7 @@ collections:
 
       - { label: "Tags", name: "tags", widget: "list" }
   - name: "categories"
-    label: "Categories"
+    label: "Kategorien"
     folder: "src/pages/categories"
     create: true
     slug: "{{slug}}"
