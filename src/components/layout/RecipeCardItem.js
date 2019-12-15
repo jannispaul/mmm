@@ -9,33 +9,34 @@ import styled from "styled-components";
 // import { StaticQuery, graphql } from "gatsby"
 
 const StyledImage = styled(Img)`
-  /* overflow: hidden; */
   width: 100%;
   height: 400px;
-  background: gray;
-  /* overflow: hidden; */
-  border-radius: 10px;
+  /* background: gray; */
+  overflow: visible !important;
+  & img {
+    border-radius: 10px;
+  }
 
-  box-shadow: 2px 2px 10px rgba(64, 0, 0, 0.05);
-  transition: all var(--time-short) cubic-bezier(0.075, 0.82, 0.165, 1);
+  /* box-shadow: 2px 2px 10px rgba(64, 0, 0, 0.05);
+  transition: all var(--time-short) cubic-bezier(0.075, 0.82, 0.165, 1); */
 
   /* box-shadow: 0px 0px 10px rgba(64, 0, 0, 0.09); */
   /* display: flex;
   align-items: center; */
   &::after {
     content: "";
-    background: red;
     position: absolute;
     left: 0;
     right: 0;
     margin: 0 auto;
     top: 10%;
     border-radius: 10px;
-    width: 110%;
-    height: 70%;
-    background: red;
-    opacity: 0.5;
+    width: 80%;
+    height: 80%;
+    /* background: red; */
+    opacity: 1;
     z-index: -1;
+    box-shadow: 2px 20px 20px var(--color-medium);
     transition: all var(--time-short);
   }
 `;
@@ -43,7 +44,7 @@ const RecipeCard = styled.div`
   position: relative;
   background: none;
   /* border-radius: 3px; */
-  &::after {
+  /* &::after {
     content: "";
     position: absolute;
     left: 0;
@@ -54,21 +55,20 @@ const RecipeCard = styled.div`
     width: 75%;
     height: 60%;
     background: red;
-    /* background: red; */
     z-index: -1;
     box-shadow: 2px 20px 20px var(--color-dark);
     opacity: 0.5;
     transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
-  }
-  &:hover ::after {
-    /* box-shadow: 2px 20px 20px var(--color-dark); */
-    transform: scale(1.2, 1.2);
-    opacity: 1;
-    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
-  }
+  } */
+
   &:hover ${StyledImage} {
     transform: translateY(-2px);
-    transition: all var(--time-short);
+    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    ::after {
+      transform: scale(1.15, 1.15);
+      opacity: 0.5;
+      transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    }
   }
 `;
 const Title = styled.h3`
