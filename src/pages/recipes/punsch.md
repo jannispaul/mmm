@@ -19,7 +19,6 @@ category:
   - drinks
 tags:
   - Winter
-  - ''
 ---
 
 Cook all ingredients in a pot until thoroughly warmed and flavors mingled.

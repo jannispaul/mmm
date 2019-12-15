@@ -12,7 +12,7 @@ category:
   - sidedishes
 tags:
   - Möhren
-  - ''
+
 ---
 
 tbd

@@ -188,6 +188,24 @@ const IngredientListItem = styled.ul`
   }
 `;
 
+const Tags = styled.div`
+  li {
+    display: inline-block;
+    padding: 8px 16px;
+    background: var(--color-light);
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+    /* font-size: 16px; */
+    /* text-transform: uppercase; */
+    font-weight: 500;
+
+    :hover {
+      background: yellow;
+    }
+  }
+`;
+
 const RecipeTemplate = props => {
   return (
     <Layout>
@@ -237,19 +255,19 @@ const RecipeTemplate = props => {
               }}
             /> */}
             {/* {props.data.markdownRemark.HTMLContent} */}
-            {props.data.markdownRemark.frontmattertags &&
-            props.data.markdownRemark.frontmattertags.length ? (
-              <div>
-                <h4>Tags</h4>
-                <ul>
-                  {props.data.markdownRemark.frontmatter.tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
+            {/* {props.data.markdownRemark.frontmattertags &&
+            props.data.markdownRemark.frontmattertags.length ? ( */}
+            <Tags>
+              <h4>Tags</h4>
+              <ul>
+                {props.data.markdownRemark.frontmatter.tags.map(tag => (
+                  <li key={tag + `tag`}>
+                    <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                  </li>
+                ))}
+              </ul>
+            </Tags>
+            {/* ) : null} */}
           </div>
         </DirectionsContainer>
         {/* </ScrollContent> */}

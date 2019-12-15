@@ -27,7 +27,6 @@ category:
 tags:
   - Eier
   - Türkisch
-  - ''
 ---
 
 1. Heat oven to 375 degrees.

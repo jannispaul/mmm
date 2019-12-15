@@ -9,11 +9,11 @@ import styled from "styled-components";
 // import { StaticQuery, graphql } from "gatsby"
 
 const StyledImage = styled(Img)`
-  overflow: hidden;
+  /* overflow: hidden; */
   width: 100%;
   height: 400px;
   background: gray;
-  overflow: hidden;
+  /* overflow: hidden; */
   border-radius: 10px;
 
   box-shadow: 2px 2px 10px rgba(64, 0, 0, 0.05);
@@ -22,6 +22,22 @@ const StyledImage = styled(Img)`
   /* box-shadow: 0px 0px 10px rgba(64, 0, 0, 0.09); */
   /* display: flex;
   align-items: center; */
+  &::after {
+    content: "";
+    background: red;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 10%;
+    border-radius: 10px;
+    width: 110%;
+    height: 70%;
+    background: red;
+    opacity: 0.5;
+    z-index: -1;
+    transition: all var(--time-short);
+  }
 `;
 const RecipeCard = styled.div`
   position: relative;
@@ -35,16 +51,20 @@ const RecipeCard = styled.div`
     margin: 0 auto;
     top: 10%;
     border-radius: 10px;
-    width: 90%;
-    height: 70%;
+    width: 75%;
+    height: 60%;
     background: red;
-    opacity: 0.5;
+    /* background: red; */
     z-index: -1;
-    transition: all var(--time-short);
+    box-shadow: 2px 20px 20px var(--color-dark);
+    opacity: 0.5;
+    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
   &:hover ::after {
-    box-shadow: 2px 20px 20px var(--color-medium);
-    transition: all var(--time-short);
+    /* box-shadow: 2px 20px 20px var(--color-dark); */
+    transform: scale(1.2, 1.2);
+    opacity: 1;
+    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
   &:hover ${StyledImage} {
     transform: translateY(-2px);

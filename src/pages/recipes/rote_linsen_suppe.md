@@ -26,7 +26,6 @@ category:
   - maindishes
 tags:
   - Suppe
-  - ''
 ---
 
 1. In a large pot, heat 3 tablespoons oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.

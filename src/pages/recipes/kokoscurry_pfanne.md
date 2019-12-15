@@ -25,7 +25,6 @@ tags:
   - Curry
   - Gemüse
   - Hähnchen
-  - ''
 ---
 
 Start cooking rice. Sautee chicken in a large wok or pan over medium high heat. Remove after mainly cooked through. Prepare vegetable and sautee until just tender, adding curry paste, coconut milk, and quick cooking ingredients like pineapple or Zuckerschoten towards the end.

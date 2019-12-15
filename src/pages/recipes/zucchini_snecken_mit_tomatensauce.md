@@ -21,7 +21,6 @@ category:
 tags:
   - Healthy
   - Gesund
-  - ''
 ---
 
 1. Den Backofen auf 180 Grad vorheizen.

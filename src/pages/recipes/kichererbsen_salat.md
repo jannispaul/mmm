@@ -21,7 +21,6 @@ tags:
   - Gesund
   - Healthy
   - Sommer
-  - ''
 ---
 
 Quarter the tomatoes, dice the avocado and feta. Toss all ingredients in a large bowl and serve.

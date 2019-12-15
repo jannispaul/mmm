@@ -25,7 +25,6 @@ category:
   - appetizers
 tags:
   - Dinner Party
-  - ''
 ---
 
 1. In a small bowl, mix together crème fraîche and citrus juice and refrigerate until you are ready to assemble the dish. Heat oven to 350 degrees.

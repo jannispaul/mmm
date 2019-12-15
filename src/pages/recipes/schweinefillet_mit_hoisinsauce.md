@@ -13,6 +13,6 @@ category:
 tags:
   - Asiatisch
   - Schwein
-  - ''
 ---
+
 BLAH
