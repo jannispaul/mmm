@@ -2,8 +2,7 @@
 templateKey: recipe
 title: Blechgemüse mit Hähnchen
 date: 2019-11-15T15:04:10.000Z
-description: tbd
-featuredImage: /img/test.png
+featuredImage: /img/img_6203.jpg
 time: 1 Stunde
 portions: 4
 ingredients:
