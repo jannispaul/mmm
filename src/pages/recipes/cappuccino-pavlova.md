@@ -6,14 +6,14 @@ featuredImage: /img/cappuccino-pavlova-561e306e938cc.jpg
 time: 30 min
 portions: 10
 ingredients:
-  - Für das Baiser
+  - 'Für das Baiser:'
   - 4 Eiweiß
   - 1 Prise Salz
   - 200 g Zucker
   - 4 TL Instant-Espressopulver
   - 2 TL Speisestärke
-  - 1 TL weißen Essig
-  - Zusätzlich
+  - 1 TL weißen Essig.
+  - 'Zusätzlich:'
   - 300 ml Schlagsahne
   - 1  TL Kakao
 category:
