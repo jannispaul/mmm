@@ -13,7 +13,7 @@ ingredients:
   - Muskat
   - Nelke
   - Piment und
-  - Zimt mischen.
+  - Zimt.
   - Für den Teig
   - 480 g Brauner Zucker
   - 6 große Bio-Eier
