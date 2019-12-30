@@ -6,7 +6,7 @@ featuredImage: /img/img_9579.jpg
 time: Mehrere Stunden
 portions: 50
 ingredients:
-  - Für das Lebkuchengewürz jeweils 1 Tl von folgenden 7 Gewürzen mischen
+  - 'Für das Lebkuchengewürz jeweils 1 Tl von folgenden 7 Gewürzen mischen:'
   - Kardamom
   - Koriander
   - Macis
