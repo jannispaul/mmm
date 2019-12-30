@@ -15,10 +15,10 @@ ingredients:
   - 20 g Mehl
   - 1/2 TL Backpulver
   - Für den Belag
-  - 400 g Schwand
+  - 400 g Schmand
   - 8 EL Zucker
   - 5EL Zitronensaft
-  - 5 Blatt Gelatine weiß
+  - 5 Blatt Gelantine weiß
   - 400 ml Schlagsahne
   - 3 Gläser rote Grütze oder Kirschgrütze
   - 4 Blatt Gelantine
