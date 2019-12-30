@@ -6,31 +6,30 @@ featuredImage: /img/img_9579.jpg
 time: Mehrere Stunden
 portions: 50
 ingredients:
-  - Für das Lebkuchengewürz jeweils 1 Tl
+  - Für das Lebkuchengewürz jeweils 1 Tl von folgenden 7 Gewürzen mischen
   - Kardamom
   - Koriander
   - Macis
   - Muskat
   - Nelke
-  - Piment
-  - Zimt  mischen
+  - Piment und
+  - Zimt mischen.
   - Für den Teig
   - 480 g Brauner Zucker
   - 6 große Bio-Eier
   - 3 1/2 Tl Lebkuchengewürz
   - 200 g gemahlene Haselnüsse
-  - "180 g\_ gehackte Haselnüsse"
+  - "180 g\_gehackte Haselnüsse"
   - 50 g gehackte Walnüsse
   - 100 g gemahlene Mandeln
-  - 3Tl Vanilleextrakt
+  - 3 Tl Vanilleextrakt
   - 50 g Zitronat
   - 50 g Orangeat
-  - 100 g kandierter Ingwer (ungeschwefelt
-  - Reformhaus)
+  - 100 g kandierter Ingwer (ungeschwefelt Reformhaus)
   - "geriebene Schale von 2\_ Bio-Orangen"
   - 2 Messerspitzen Pottasche
   - Backoblaten mit 7cm Durchmesser
-  - Lebkuchenglocke
+  - Lebkuchenglocke 7 cm
   - enthäutete Mandeln zum Verzieren
   - Puderzucker
   - Rum
