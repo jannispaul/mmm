@@ -18,8 +18,9 @@ ingredients:
   - 'zum Verzieren:'
   - Rosinen
   - Mandeln
-  - Kürbiskerne
-  - 'etc.; zum Bestreichen:'
+  - Walnüsse
+  - Kürbiskerne etc.
+  - 'zum Bestreichen:'
   - 1 Eigelb
   - 3 Esslöffel Milch
 category:
