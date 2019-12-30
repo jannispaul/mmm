@@ -17,12 +17,11 @@ ingredients:
   - 'Für den Belag:'
   - 400 g Schmand
   - 8 EL Zucker
-  - 5EL Zitronensaft
-  - 5 Blatt Gelantine weiß
+  - 5 EL Zitronensaft
+  - 5 Blatt weiße Gelantine
   - 400 ml Schlagsahne
   - 3 Gläser rote Grütze oder Kirschgrütze
-  - 4 Blatt Gelantine
-  - rot oder weiß
+  - 4 Blatt rote oder weiße Gelantine
 category:
   - desserts
 tags:
