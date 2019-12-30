@@ -14,7 +14,7 @@ ingredients:
   - Nelke
   - Piment und
   - Zimt.
-  - Für den Teig
+  - 'Für den Teig:'
   - 480 g Brauner Zucker
   - 6 große Bio-Eier
   - 3 1/2 Tl Lebkuchengewürz
@@ -27,7 +27,8 @@ ingredients:
   - 50 g Orangeat
   - 100 g kandierter Ingwer (ungeschwefelt Reformhaus)
   - "geriebene Schale von 2\_ Bio-Orangen"
-  - 2 Messerspitzen Pottasche
+  - 2 Messerspitzen Pottasche.
+  - 'Außerdem:'
   - Backoblaten mit 7cm Durchmesser
   - Lebkuchenglocke 7 cm
   - enthäutete Mandeln zum Verzieren
