@@ -6,15 +6,15 @@ featuredImage: /img/5775fc63f21958e8.jpg
 time: 90 min
 portions: 12
 ingredients:
-  - Für den Teig
+  - 'Für den Teig:'
   - 100 g Butter
   - 100 Zucker
   - 3 Eier (getrennt)
   - 125 g gemahlene Haselnüsse
   - 60 g Kaba
   - 20 g Mehl
-  - 1/2 TL Backpulver
-  - Für den Belag
+  - 1/2 TL Backpulver.
+  - 'Für den Belag:'
   - 400 g Schmand
   - 8 EL Zucker
   - 5EL Zitronensaft
