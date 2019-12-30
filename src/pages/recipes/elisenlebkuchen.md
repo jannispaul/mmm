@@ -1,6 +1,6 @@
 ---
 templateKey: recipe
-title: ELISENLEBKUCHEN
+title: Elisenlebkuchen ohne Mehl
 date: 2019-12-30T13:48:06.161Z
 featuredImage: /img/img_9579.jpg
 time: Mehrere Stunden
