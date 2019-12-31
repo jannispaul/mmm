@@ -29,7 +29,6 @@ tags:
   - Beeren
   - Schmand
   - Torte
-  - ""
 ---
 
 1. Backofen auf 150 °C vorheizen.

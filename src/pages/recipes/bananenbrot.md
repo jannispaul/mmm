@@ -22,7 +22,6 @@ tags:
   - Ofen
   - Backen
   - Brot
-  - ""
 ---
 
 1. Backofen auf 175°C (350°F) vorheizen. 4x8-Zoll-Kastenform mit Backpapier belegen.

@@ -30,7 +30,6 @@ tags:
   - Backen mit Kindern
   - Weihnachten
   - Martinstag
-  - ""
 ---
 
 1. Alle Teigzutaten vermischen und gut durchkneten, den Teig in der Schüssel geben, luftdicht verschließen und über Nacht in den Kühlschtank stellen.
