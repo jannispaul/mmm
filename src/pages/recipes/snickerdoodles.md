@@ -18,6 +18,7 @@ ingredients:
   - 3 El. Zimt
 category:
   - desserts
+  - cake / cookies
 tags:
   - Kekse
 ---

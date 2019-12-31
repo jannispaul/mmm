@@ -17,15 +17,17 @@ ingredients:
   - 190 g (1 1/2 cups) Allzweckmehl
 category:
   - desserts
+  - cake / cookies
 tags:
   - Ofen
   - Backen
   - Brot
-  - ''
+  - ""
 ---
+
 1. Backofen auf 175°C (350°F) vorheizen. 4x8-Zoll-Kastenform mit Backpapier belegen.
 2. Die Bananen in einer Rührschüssel mit einer Gabel zerdrücken. Geschmolzene Butter danach einrühren.
 3. Backpulver, Salz, Zucker, geschlagenes Ei und Vanille unterrühren. Danach das Mehl unterrühren.
-4. Den Teig in die vorbereitete Kastenform gießen. Etwa 40 Minuten backen lassen, oder bis ein Holzstab sauber rauskommt. 
+4. Den Teig in die vorbereitete Kastenform gießen. Etwa 40 Minuten backen lassen, oder bis ein Holzstab sauber rauskommt.
 5. Das Brot aus dem Ofen nehmen und in der Form einige Minuten abkühlen lassen. Danach aus der Pfanne nehmen und vollständig abkühlen lassen.
 6. Schneiden und servieren!

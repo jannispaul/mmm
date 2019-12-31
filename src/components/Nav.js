@@ -64,6 +64,8 @@ const Nav = () => (
       <NavLink to="/categories/maindishes">Hauptgerichte</NavLink>
       <NavLink to="/categories/sidedishes">Beilagen</NavLink>
       <NavLink to="/categories/desserts">Desserts</NavLink>
+      <NavLink to="/categories/cake-cookies">Kuchen & Kekse</NavLink>
+      <NavLink to="/categories/bread-buns">Brot & Brötchen</NavLink>
       <NavLink to="/categories/drinks">Getränke</NavLink>
     </div>
   </Navigation>

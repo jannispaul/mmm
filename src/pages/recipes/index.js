@@ -14,7 +14,7 @@ class AllRecipesIndexPage extends React.Component {
         <SEO title="Alle Rezepte" />
         <Paddingcontainer>
           <PageHeadline
-            title="All Rezepte"
+            title="Alle Rezepte"
             recipeCount={this.props.data.allMarkdownRemark.edges.length}
           ></PageHeadline>
           <RecipeList>

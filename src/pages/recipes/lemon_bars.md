@@ -10,6 +10,7 @@ ingredients:
   - Lemon
 category:
   - desserts
+  - cake / cookies
 tags:
   - Backen
   - Ofen

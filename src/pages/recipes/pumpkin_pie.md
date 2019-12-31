@@ -21,6 +21,7 @@ ingredients:
     Mischung)
 category:
   - desserts
+  - cake / cookies
 tags:
   - Pie
   - Thanksgiving

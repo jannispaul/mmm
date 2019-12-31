@@ -19,6 +19,7 @@ ingredients:
   - 1 pound/450g gehackte Walnusse oder Pekannusse
 category:
   - desserts
+  - cake / cookies
 tags:
   - Kekse
 ---

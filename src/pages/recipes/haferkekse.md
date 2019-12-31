@@ -19,6 +19,7 @@ ingredients:
   - 1/2 Tl. Vanille
 category:
   - desserts
+  - cake / cookies
 tags:
   - Kekse
   - Cookies
