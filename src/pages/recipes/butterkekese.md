@@ -1,6 +1,6 @@
 ---
 templateKey: recipe
-title: Butterkekese
+title: Butterkekse
 date: 2019-12-30T14:36:24.256Z
 featuredImage: /img/img_9629.jpg
 time: 1 Stunde

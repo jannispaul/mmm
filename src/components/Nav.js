@@ -67,6 +67,7 @@ const Nav = () => (
       <NavLink to="/categories/cake-cookies">Kuchen & Kekse</NavLink>
       <NavLink to="/categories/bread-buns">Brot & Brötchen</NavLink>
       <NavLink to="/categories/drinks">Getränke</NavLink>
+      <NavLink to="/tags">Tags</NavLink>
     </div>
   </Navigation>
 );

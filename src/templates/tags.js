@@ -1,74 +1,77 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import { Link, graphql } from 'gatsby'
-import Layout from '../components/Layout'
+import React from "react";
+import { graphql, Link } from "gatsby";
+import Layout from "../components/Layout";
+import SEO from "../components/Seo";
+import RecipeCardItem from "../components/layout/RecipeCardItem";
+import RecipeList from "../components/layout/RecipeList";
+import Paddingcontainer from "../components/layout/PaddingContainer";
+import PageHeadline from "../components/layout/PageHeadline";
+import styled from "styled-components";
 
-class TagRoute extends React.Component {
-  render() {
-    const posts = this.props.data.allMarkdownRemark.edges
-    const postLinks = posts.map(post => (
-      <li key={post.node.fields.slug}>
-        <Link to={post.node.fields.slug}>
-          <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
-        </Link>
-      </li>
-    ))
-    const tag = this.props.pageContext.tag
-    const title = this.props.data.site.siteMetadata.title
-    const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `${totalCount} post${
-      totalCount === 1 ? '' : 's'
-    } tagged with “${tag}”`
+const Spacer = styled.div`
+  padding: 3rem;
+`;
 
-    return (
-      <Layout>
-        <section className="section">
-          <Helmet title={`${tag} | ${title}`} />
-          <div className="container content">
-            <div className="columns">
-              <div
-                className="column is-10 is-offset-1"
-                style={{ marginBottom: '6rem' }}
-              >
-                <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
-                <ul className="taglist">{postLinks}</ul>
-                <p>
-                  <Link to="/tags/">Browse all tags</Link>
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
-      </Layout>
-    )
-  }
-}
+const CategoryTemplate = props => {
+  return (
+    <Layout>
+      <SEO title={`${props.pageContext.tag}`} />
 
-export default TagRoute
+      <Paddingcontainer>
+        <PageHeadline
+          title={props.pageContext.tag}
+          recipeCount={props.data.RecipeByTag.edges.length}
+        ></PageHeadline>
+        <RecipeList>
+          {props.data.RecipeByTag.edges.map(recipe => (
+            <RecipeCardItem
+              key={recipe.id}
+              slug={recipe.node.fields.slug}
+              title={recipe.node.frontmatter.title}
+              time={recipe.node.frontmatter.time}
+              portions={recipe.node.frontmatter.portions}
+              featuredImage={recipe.node.frontmatter.featuredImage}
+            ></RecipeCardItem>
+          ))}
+        </RecipeList>
+        <Link to="/tags/">Browse all tags</Link>
+      </Paddingcontainer>
+      <Spacer></Spacer>
+    </Layout>
+  );
+};
+export default CategoryTemplate;
 
-export const tagPageQuery = graphql`
+export const pageQuery = graphql`
   query TagPage($tag: String) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(
+    RecipeByTag: allMarkdownRemark(
       limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { tags: { in: [$tag] } } }
     ) {
-      totalCount
       edges {
         node {
+          id
           fields {
             slug
           }
           frontmatter {
             title
+            templateKey
+            date(formatString: "MMMM DD, YYYY")
+
+            portions
+            time
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 289, quality: 65) {
+                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                }
+              }
+            }
           }
         }
       }
     }
   }
-`
+`;
