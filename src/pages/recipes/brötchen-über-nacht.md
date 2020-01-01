@@ -2,7 +2,7 @@
 templateKey: recipe
 title: Brötchen über Nacht
 date: 2020-01-01T13:43:59.209Z
-featuredImage: /img/schnelle-brötchen-image-1-1.jpg
+featuredImage: /img/1234.jpg
 time: 30 min
 portions: 8
 ingredients:
