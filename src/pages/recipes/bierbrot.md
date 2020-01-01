@@ -2,7 +2,7 @@
 templateKey: recipe
 title: Bierbrot
 date: 2020-01-01T17:08:02.660Z
-featuredImage: /img/img_4312.jpg
+featuredImage: /img/img_4314.jpg
 time: 30 min
 portions: 8
 ingredients:
