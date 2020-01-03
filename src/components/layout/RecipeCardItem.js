@@ -122,15 +122,13 @@ const RecipeCardItem = props => (
           {/* <span role="img" aria-label="time">
             ⌛
           </span>{" "} */}
-          {props.time}
+          {props.time} min
         </MetaDetail>
         <MetaDetail>
-          {/* <span role="img" aria-label="portions">
-            🍽️
-          </span>{" "} */}
-          {props.portions} Portionen
+          {props.portions > 0 ? `${props.portions} Portionen` : ``}
         </MetaDetail>
       </MetaInfoContainer>
+
       <Title>{props.title}</Title>
     </Link>
   </RecipeCard>

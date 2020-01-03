@@ -223,8 +223,12 @@ const RecipeTemplate = props => {
               <span>{props.data.markdownRemark.frontmatter.title}</span>
             </Title>
             <MetaInfoContainer>
-              <p>{props.data.markdownRemark.frontmatter.time}</p>
-              <p>{props.data.markdownRemark.frontmatter.portions} Portionen</p>
+              <p>{props.data.markdownRemark.frontmatter.time} min</p>
+              <p>
+                {props.data.markdownRemark.frontmatter.portions > 0
+                  ? `${props.data.markdownRemark.frontmatter.portions} Portionen`
+                  : ``}
+              </p>
               <p>{props.data.markdownRemark.frontmatter.date}</p>
             </MetaInfoContainer>
 
