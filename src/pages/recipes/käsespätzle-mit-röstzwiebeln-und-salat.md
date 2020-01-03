@@ -25,9 +25,10 @@ ingredients:
   - Knoblauch
   - Salz
   - Pfeffer
-  - 'Honig. Außerdem:'
+  - Honig
+  - 'Außerdem:'
   - 40 g Butter
-  - 4 EL Sahne oder Creme Fraiche
+  - 4 EL Sahne oder Creme fraiche
   - 150 g Bergkäse fein gerieben
   - 150 g Emmentaler fein gerieben
   - 1 Bd. Schnittlauch in Röllchen
