@@ -3,7 +3,7 @@ templateKey: recipe
 title: Sauerteigbrot über Nacht
 date: 2020-01-01T14:09:13.746Z
 featuredImage: /img/img_7099.jpg
-time: 1 Stunde
+time: 60
 portions: 8
 ingredients:
   - 350 g Vollkorn-Weizenmehl

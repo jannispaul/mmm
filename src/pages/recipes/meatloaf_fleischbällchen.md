@@ -4,7 +4,7 @@ title: Meatloaf Fleischbällchen
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/square-1457041230-meatloaf-meatballssq1.jpg
-time: 30 min
+time: 30
 portions: 2
 ingredients:
   - 500g Hackfleisch (Rind oder gemischt)

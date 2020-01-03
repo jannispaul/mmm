@@ -4,7 +4,7 @@ title: Snickerdoodles
 date: 2019-12-05T19:16:42.912Z
 description: TBD
 featuredImage: /img/snickerdoodle-cookies.jpg
-time: 30 min
+time: 30
 portions: 10
 ingredients:
   - 230 g (1 cup) Butter

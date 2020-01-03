@@ -4,7 +4,7 @@ title: Haemul Pajeon (Koreanische Pfannkuchen mit Meeresfrüchten)
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/dsc_1825-e1489034351149.jpg
-time: 30 min
+time: 30
 portions: 4
 ingredients:
   - >-

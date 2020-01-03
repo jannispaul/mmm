@@ -3,7 +3,7 @@ templateKey: recipe
 title: Brötchen über Nacht
 date: 2020-01-01T13:43:59.209Z
 featuredImage: /img/1234.jpg
-time: 30 min
+time: 30
 portions: 8
 ingredients:
   - 500 g (ca. 3 3/4 cups) Mehl (Weizen 550 oder 1050 oder Dinkel 630)

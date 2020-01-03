@@ -3,7 +3,7 @@ templateKey: recipe
 title: Schmand-Torte mit roter Grütze
 date: 2019-12-30T12:26:00.000Z
 featuredImage: /img/5775fc63f21958e8.jpg
-time: 90 min
+time: 90
 portions: 12
 ingredients:
   - "Für den Teig:"

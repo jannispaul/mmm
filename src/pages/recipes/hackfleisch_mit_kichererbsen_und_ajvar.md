@@ -4,7 +4,7 @@ title: Hackfleisch mit Kichererbsen und Ajvar
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/kichererbsenpfanne-1250675.jpg
-time: 30 min
+time: 30
 portions: 4
 ingredients:
   - 1 Zwiebel

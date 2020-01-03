@@ -4,7 +4,7 @@ title: Pesto Pastasalat
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/caprese-pasta-salad-web-2.jpg
-time: 15 min
+time: 15
 portions: 6
 ingredients:
   - Pestosauce (link to recipe)

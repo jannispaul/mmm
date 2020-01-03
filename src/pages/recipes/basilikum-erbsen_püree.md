@@ -4,7 +4,7 @@ title: Basilikum-Erbsen Püree
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/homemade-basil-pesto-5.jpg
-time: 15 min
+time: 15
 portions: 1
 ingredients:
   - 1 Basilikum Töpfchen

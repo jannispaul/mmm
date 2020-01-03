@@ -7,7 +7,7 @@ description: >-
   this creamy risotto that goes well with any roast meat or poultry. Pungent,
   crispy fried sage leaves give a special finishing touch to this dish.”
 featuredImage: /img/3756313.jpg
-time: 1 Stunde
+time: 60
 portions: 4
 ingredients:
   - Olivenöl

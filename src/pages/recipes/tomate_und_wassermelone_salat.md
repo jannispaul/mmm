@@ -4,7 +4,7 @@ title: Tomate und Wassermelone Salat
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/20160620-watermelon-feta-mint-salad-22.jpg
-time: 15 min
+time: 15
 portions: 4
 ingredients:
   - 4 bis 6 große Tomaten

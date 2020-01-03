@@ -3,23 +3,23 @@ templateKey: recipe
 title: Engadiner Nusstorte
 date: 2020-01-01T19:26:05.858Z
 featuredImage: /img/img_7239.jpg
-time: 90 min
+time: 90
 portions: 12
 ingredients:
-  - 'Für den Teig:'
+  - "Für den Teig:"
   - 300 g Mehl (gesiebt)
   - 100 g Zucker
   - 1 Prise Salz
   - 1 Ei
   - 200 g Butter in Würfeln (kalt)
-  - 'Für die Füllung:'
+  - "Für die Füllung:"
   - 200 g Walnüsse
   - 100 g Pekannüsse
   - 250 g Zucker
   - 1 EL Honig
   - 1 Becher Schlagsahne
   - 1/2 TL Fleur de Sel
-  - 'zum Bestreichen:'
+  - "zum Bestreichen:"
   - 1 Eigelb
   - 12 Walnusshälften zum Verzieren
   - etwas dunkle Schokolade
@@ -31,6 +31,7 @@ tags:
   - Karamell
   - Nüsse
 ---
+
 1. Einen Mürbeteig zubereiten, eine Stunde kühl stellen. In der Zeit die Nüsse hacken und die Füllung bereiten.
 
 2. Ein gutes Drittel des Mürbeteigs kreisrund ausrollen – es bildet später den Deckel.

@@ -5,7 +5,7 @@ date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: >-
   /img/4083761e-c805-4178-8b8f-33d4bc5736ad-2017-0124_smoky-minestrone-with-tortellini_james-ransom-267.jpg
-time: 1 Stunde
+time: 60
 portions: 6
 ingredients:
   - Suppe

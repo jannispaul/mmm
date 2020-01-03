@@ -4,7 +4,7 @@ title: Kartoffelbrei
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/perfect-mashed-potatoes-vertical-a-1800.jpg
-time: 1 Stunde
+time: 60
 portions: 5
 ingredients:
   - 500 g Kartoffeln

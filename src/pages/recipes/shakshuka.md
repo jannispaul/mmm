@@ -4,7 +4,7 @@ title: Shakshuka
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/shakshuka-with-feta-6.jpg
-time: 1 Stunde
+time: 60
 portions: 4
 ingredients:
   - 3 El. Olivenöl

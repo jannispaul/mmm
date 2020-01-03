@@ -3,7 +3,7 @@ templateKey: recipe
 title: Stutenkerl
 date: 2019-12-30T14:31:11.611Z
 featuredImage: /img/img_9569.jpg
-time: 1 Stunde
+time: 60
 portions: 4
 ingredients:
   - "Für den Teig:"

@@ -4,7 +4,7 @@ title: Süßkartoffel Confit mit Chorizo und Crème Fraîche
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/15chef2-articlelarge-v2.jpg
-time: 90 min
+time: 90
 portions: 6
 ingredients:
   - 1 (8­ounce) container crème fraîche 2 tablespoons lemon or yuzu juice

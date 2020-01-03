@@ -3,7 +3,7 @@ templateKey: recipe
 title: Baumkuchentorte (1 Woche im Voraus backen)
 date: 2020-01-01T19:28:51.109Z
 featuredImage: /img/img_4885-2.jpg
-time: Mehrere Stunden
+time: 180
 portions: 16
 ingredients:
   - 500 g Butter (zimmerwarm)
@@ -30,7 +30,8 @@ tags:
   - Weihnachten
   - Geschenke aus der Küche
 ---
-1. Böden von zwei Springformen  (16 und 22 cm) mit Backpapier auslegen. 
+
+1. Böden von zwei Springformen (16 und 22 cm) mit Backpapier auslegen.
 
 2. Butter und Zucker in der Küchenmaschine schaumig rühren, nach und nach das Eigelb unterrühren. Vanillemark und Mandeln zugeben, dann Mehl, Kardamom und Zimt unterrühren.
 
@@ -38,10 +39,10 @@ tags:
 
 4. Backofen auf Grill und höchste Heizstufe stellen, Rost auf die mittlere Schiene schieben.
 
-5. Für jede Teighälfte 6 Eiweiß steifschlagen und vorsichtig unterheben. 
+5. Für jede Teighälfte 6 Eiweiß steifschlagen und vorsichtig unterheben.
 
-7. 1 EL vom hellen Teig in der kleinen Form verstreichen, 1 bis 2 Minuten unter dem Grill hellgelb backen. Währenddessen 2 EL in der größeren Form verstreichen, ebenfalls backen. Dann auf die erste Schicht den dunklen Teig streichen, dann wieder hell (immer nur hauchdünn) und jeweils backen. Abwechseln, bis der Teig aufgebraucht ist. Vorsicht: Die Formen sind sehr heiß!!!
+6. 1 EL vom hellen Teig in der kleinen Form verstreichen, 1 bis 2 Minuten unter dem Grill hellgelb backen. Währenddessen 2 EL in der größeren Form verstreichen, ebenfalls backen. Dann auf die erste Schicht den dunklen Teig streichen, dann wieder hell (immer nur hauchdünn) und jeweils backen. Abwechseln, bis der Teig aufgebraucht ist. Vorsicht: Die Formen sind sehr heiß!!!
 
-8. Die fertigen Kuchen vorsichtig vom Rand lösen, jedoch in den Formen auskühlen lassen, dann vorsichtig stürzen und das Backpapier abziehen.
+7. Die fertigen Kuchen vorsichtig vom Rand lösen, jedoch in den Formen auskühlen lassen, dann vorsichtig stürzen und das Backpapier abziehen.
 
-9. Marmelade aufkochen, durch ein Sieb streichen. Den großen Kuchen damit sehr dünn einstreichen, den kleinen mittig darauf plazieren und ebenfalls aprikotieren. Überzug trocknen lassen. Währenddessen die Kuvertüre im Wasserbad schmelzen, Palmin unterrühren und die Torte damit  (oder mit Fertig-Guß) überziehen. Nach dem Trocknen locker in Alufolie einschlagen und mindestens eine Woche durchziehen lassen.
+8. Marmelade aufkochen, durch ein Sieb streichen. Den großen Kuchen damit sehr dünn einstreichen, den kleinen mittig darauf plazieren und ebenfalls aprikotieren. Überzug trocknen lassen. Währenddessen die Kuvertüre im Wasserbad schmelzen, Palmin unterrühren und die Torte damit (oder mit Fertig-Guß) überziehen. Nach dem Trocknen locker in Alufolie einschlagen und mindestens eine Woche durchziehen lassen.

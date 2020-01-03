@@ -4,7 +4,7 @@ title: Burritos
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/veggie-burritos-5-of-9.jpg
-time: 15 min
+time: 15
 portions: 4
 ingredients:
   - 1 kleine rote Zwiebel + 1 Tl. Zucker + 2 El. Apfelessig

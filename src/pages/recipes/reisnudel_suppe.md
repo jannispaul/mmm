@@ -4,7 +4,7 @@ title: Reisnudel Suppe
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/4552429.jpg
-time: 30 min
+time: 30
 portions: 2
 ingredients:
   - 200 g Hähnchenbrustfilet

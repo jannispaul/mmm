@@ -4,7 +4,7 @@ title: Pfannkuchen
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/oatmeal-pancakes-3.jpg
-time: 30 min
+time: 30
 portions: 8
 ingredients:
   - 3 tbsp geschmolzene Butter

@@ -4,7 +4,7 @@ title: Ofenkartoffeln
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/easy-oven-fries-recipe-1-1-660x924.jpg
-time: 1 Stunde
+time: 60
 portions: 4
 ingredients:
   - 500 g Kartoffeln

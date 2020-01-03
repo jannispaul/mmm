@@ -5,7 +5,7 @@ date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: >-
   /img/lebanese-green-beans-with-tomatoes-and-cinnamon-a-healthy-side-dish-recipe.jpg
-time: 15 min
+time: 15
 portions: 4
 ingredients:
   - Olivenöl

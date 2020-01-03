@@ -4,7 +4,7 @@ title: Lasagna Bolognese
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/most-amazing-lasagna-4-e1503516670834.jpg
-time: 90 min
+time: 90
 portions: 6
 ingredients:
   - Bolognese Sauce

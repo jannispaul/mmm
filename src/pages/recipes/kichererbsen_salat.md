@@ -4,7 +4,7 @@ title: Kichererbsen Salat
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/img_20170330_121804.jpg
-time: 15 min
+time: 15
 portions: 4
 ingredients:
   - Halber Dose Kichererbsen

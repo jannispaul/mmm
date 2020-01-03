@@ -4,7 +4,7 @@ title: Breakfast Burrito
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/breakfast-burritos-campfire-style-taste-and-tell-1.jpg
-time: 15 min
+time: 15
 portions: 1
 ingredients:
   - Rührei

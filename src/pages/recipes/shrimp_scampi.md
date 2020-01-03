@@ -4,7 +4,7 @@ title: Shrimp Scampi
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/shrimp-scampi-culinary-hill-3-660x990.jpg
-time: 30 min
+time: 30
 portions: 4
 ingredients:
   - 1 Zwiebel

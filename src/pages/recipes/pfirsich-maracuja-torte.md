@@ -4,7 +4,7 @@ title: Pfirsich-Maracuja-Torte
 date: 2019-12-30T13:26:44.068Z
 featuredImage: >-
   /img/ein-stueck-pfirsich-maracuja-torte-von-vorn-die-kleine-windmuehle_hf-683x1024.jpg
-time: 30 min
+time: 30
 portions: 12
 ingredients:
   - 3 Eier

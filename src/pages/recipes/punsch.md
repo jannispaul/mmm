@@ -4,7 +4,7 @@ title: Punsch
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/gluehwein-mit-miniorangen.jpg
-time: 1 Stunde
+time: 60
 portions: 10
 ingredients:
   - 1.5 l Rotwein

@@ -4,7 +4,7 @@ title: Pasta mit Tomaten-Speck Sauce
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/bacon-tomato-pasta-0911med107344_sq.jpg
-time: 30 min
+time: 30
 portions: 4
 ingredients:
   - 450g Pasta (z.B. Penne oder Farfalle)

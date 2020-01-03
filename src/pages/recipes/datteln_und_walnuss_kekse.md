@@ -4,7 +4,7 @@ title: Datteln und Walnuss Kekse
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/19iowa-articlelarge.jpg
-time: 90 min
+time: 90
 portions: 8
 ingredients:
   - 350g (2 1⁄2 cups) Mehl

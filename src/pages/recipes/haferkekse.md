@@ -4,7 +4,7 @@ title: Haferkekse
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/6a6739f5f46c9915acc94c9abaf135ae.jpg
-time: 30 min
+time: 30
 portions: 10
 ingredients:
   - 230g (1 3/4 cups) Haferflocken

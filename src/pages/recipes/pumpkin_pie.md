@@ -4,7 +4,7 @@ title: Pumpkin Pie
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/pumpkin-pie-small-1.jpg
-time: 1 Stunde
+time: 60
 portions: 8
 ingredients:
   - 1 15 oz./425g Dose Kürbispuree

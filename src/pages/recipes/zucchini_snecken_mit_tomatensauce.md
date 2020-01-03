@@ -4,7 +4,7 @@ title: Zucchini Snecken mit Tomatensauce
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/zucchini_cannelloni-7.jpg
-time: 30 min
+time: 30
 portions: 2
 ingredients:
   - 2 große Zucchini

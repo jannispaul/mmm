@@ -3,7 +3,7 @@ templateKey: recipe
 title: "Cappuccino-Pavlova "
 date: 2019-12-30T13:38:45.048Z
 featuredImage: /img/cappuccino-pavlova-561e306e938cc.jpg
-time: 30 min
+time: 30
 portions: 10
 ingredients:
   - "Für das Baiser:"

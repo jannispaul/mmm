@@ -4,7 +4,7 @@ title: "Israeli Couscous mit grünem Spargel, Erbsen und Knackerbsen"
 date: 2019-11-15T15:04:10.000Z
 description: tbd
 featuredImage: /img/img_20180515_192705.jpg
-time: 30 min
+time: 30
 portions: 4
 ingredients:
   - 4 El. Olivenöl

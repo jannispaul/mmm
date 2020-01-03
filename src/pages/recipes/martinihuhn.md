@@ -4,7 +4,7 @@ title: Martinihuhn
 date: 2017-01-04T15:04:10.000Z
 description: tbd
 featuredImage: /img/b985b6851fbc2da0a3ca72b412e0db7c.jpg
-time: Mehrere Stunden
+time: 180
 portions: 6
 ingredients:
   - 4 Hähnchenunterkeulen (möglichst Maishähnchen)
