@@ -29,13 +29,14 @@ collections:
       # - { label: "Beschreibung", name: "description", widget: "text" }
       # - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
       - { label: "Hauptbild", name: "featuredImage", widget: "image" }
+      - { label: "Ingredients", name: "ingredients", widget: "markdown" }
       - { label: "Anweisungen", name: "body", widget: "markdown" }
       - {
           label: "Dauer",
           name: "time",
-          widget: "select",
-          options:
-            ["15 min", "30 min", "1 Stunde", "90 min", "Mehrere Stunden"],
+          widget: "number",
+          default: 60,
+          valueType: "int",
         }
       - {
           label: "Portionen",
@@ -43,11 +44,10 @@ collections:
           widget: "number",
           default: 4,
           valueType: "int",
-          min: 1,
+          min: 0,
           max: 50,
           step: 1,
         }
-      - { label: "Ingredients", name: "ingredients", widget: "list" }
       - label: "Category"
         name: "category"
         widget: "select"
@@ -56,6 +56,8 @@ collections:
           - { label: "Vorspeisen", value: "appetizers" }
           - { label: "Hauptgerichte", value: "maindishes" }
           - { label: "Beilagen", value: "sidedishes" }
+          - { label: "Kuchen & Kekse", value: "cake / cookies" }
+          - { label: "Brots & Brötchen", value: "bread / buns" }
           - { label: "Desserts", value: "desserts" }
           - { label: "Getränke", value: "drinks" }
 
