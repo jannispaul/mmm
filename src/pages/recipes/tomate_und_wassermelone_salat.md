@@ -6,17 +6,17 @@ description: tbd
 featuredImage: /img/20160620-watermelon-feta-mint-salad-22.jpg
 time: 15
 portions: 4
-ingredients:
-  - 4 bis 6 große Tomaten
-  - cut into 1 1/4­ inch cubes
-  - 1 small seedless watermelon
-  - cut into 1 1/4­inch cubes
-  - 1 teaspoon kosher salt
-  - 1⁄4 cup extra­virgin olive oil
-  - 2 tablespoons sherry vinegar
-  - Kosher salt and freshly ground black pepper to taste
-  - 1 cup feta cheese
-  - torn into large crumbles
+ingredients: |-
+  * 4 bis 6 große Tomaten
+  * cut into 1 1/4­ inch cubes
+  * 1 small seedless watermelon
+  * cut into 1 1/4­inch cubes
+  * 1 teaspoon kosher salt
+  * 1⁄4 cup extra­virgin olive oil
+  * 2 tablespoons sherry vinegar
+  * Kosher salt and freshly ground black pepper to taste
+  * 1 cup feta cheese
+  * torn into large crumbles
 category:
   - appetizers
 tags:

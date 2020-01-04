@@ -6,8 +6,8 @@ description: tbd
 featuredImage: /img/chinese-pork-loin-6.jpg
 time: 60
 portions: 4
-ingredients:
-  - Schweinefilet
+ingredients: |-
+  * Schweinefilet
 category:
   - maindishes
 tags:

@@ -1,14 +1,19 @@
-const _ = require('lodash')
-const path = require('path')
-const { createFilePath } = require('gatsby-source-filesystem')
-const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+const _ = require("lodash");
+const path = require("path");
+const { createFilePath } = require("gatsby-source-filesystem");
+const { fmImagesToRelative } = require("gatsby-remark-relative-images");
 
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions
+  const { createPage } = actions;
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        limit: 1000
+        filter: {
+          parent: { internal: { type: { ne: "FrontmatterMarkdownFile" } } }
+        }
+      ) {
         edges {
           node {
             id
@@ -19,6 +24,7 @@ exports.createPages = ({ actions, graphql }) => {
               tags
               templateKey
               name
+              ingredients
             }
           }
         }
@@ -26,15 +32,15 @@ exports.createPages = ({ actions, graphql }) => {
     }
   `).then(result => {
     if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()))
-      return Promise.reject(result.errors)
+      result.errors.forEach(e => console.error(e.toString()));
+      return Promise.reject(result.errors);
     }
 
-    const posts = result.data.allMarkdownRemark.edges
+    const posts = result.data.allMarkdownRemark.edges;
 
     posts.forEach(edge => {
-      const id = edge.node.id
-      const category = edge.node.frontmatter.name
+      const id = edge.node.id;
+      const category = edge.node.frontmatter.name;
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -44,47 +50,83 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
-          category,
-        },
-      })
-    })
+          category
+        }
+      });
+    });
 
     // Tag pages:
-    let tags = []
+    let tags = [];
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach(edge => {
       if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
+        tags = tags.concat(edge.node.frontmatter.tags);
       }
-    })
+    });
     // Eliminate duplicate tags
-    tags = _.uniq(tags)
+    tags = _.uniq(tags);
 
     // Make tag pages
     tags.forEach(tag => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
+      const tagPath = `/tags/${_.kebabCase(tag)}/`;
 
       createPage({
         path: tagPath,
         component: path.resolve(`src/templates/tags.js`),
         context: {
-          tag,
-        },
-      })
-    })
-  })
-}
+          tag
+        }
+      });
+    });
+  });
+};
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
-  fmImagesToRelative(node) // convert image paths for gatsby images
+  const { createNodeField } = actions;
+  fmImagesToRelative(node); // convert image paths for gatsby images
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+    const value = createFilePath({ node, getNode });
     createNodeField({
       name: `slug`,
       node,
-      value,
-    })
+      value
+    });
+
+    const remark = require("remark");
+    const recommended = require("remark-preset-lint-recommended");
+    const remarkHTML = require("remark-html");
+    const markdown = node.frontmatter.ingredients;
+    const content = remark()
+      .use(recommended)
+      .use(remarkHTML)
+      .processSync(markdown)
+      .toString();
+    createNodeField({
+      node,
+      name: `ingredients`,
+      value: content
+    });
+    // if (node.templateKey === "recipe") {
+    //   createNodeField({
+    //     name: `test`,
+    //     node,
+    //     value: "bla"
+    //   });
+    // }
   }
-}
+
+  // if (node.internal.type === `MarkdownRemark`) {
+  //   const markdown = node.frontmatter.ingredients;
+  //   const content = remark()
+  //     .use(recommended)
+  //     .use(remarkHTML)
+  //     .processSync(markdown)
+  //     .toString();
+  //   createNodeField({
+  //     node,
+  //     name: `ingredients`,
+  //     value: content
+  //   });
+  // }
+};

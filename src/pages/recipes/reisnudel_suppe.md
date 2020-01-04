@@ -6,20 +6,20 @@ description: tbd
 featuredImage: /img/4552429.jpg
 time: 30
 portions: 2
-ingredients:
-  - 200 g Hähnchenbrustfilet
-  - 3 TL süßsaure Chilisauce
-  - 2 EL Sojasauce
-  - 1 Zwiebeln
-  - 2 Knoblauchzehe
-  - 2 Möhren
-  - Salz
-  - 500 ml Hühnerfond
-  - 100 g Zuckerschoten
-  - 2 Frühlingszwiebeln
-  - 150 g Reisnudeln
-  - Sambal Oelek (o.ä. Chilipaste)
-  - Geröstete Sesamsamen
+ingredients: |-
+  * 200 g Hähnchenbrustfilet
+  * 3 TL süßsaure Chilisauce
+  * 2 EL Sojasauce
+  * 1 Zwiebeln
+  * 2 Knoblauchzehe
+  * 2 Möhren
+  * Salz
+  * 500 ml Hühnerfond
+  * 100 g Zuckerschoten
+  * 2 Frühlingszwiebeln
+  * 150 g Reisnudeln
+  * Sambal Oelek (o.ä. Chilipaste)
+  * Geröstete Sesamsamen
 category:
   - maindishes
 tags:

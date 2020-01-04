@@ -5,24 +5,26 @@ date: 2019-12-30T14:31:11.611Z
 featuredImage: /img/img_9569.jpg
 time: 60
 portions: 4
-ingredients:
-  - "Für den Teig:"
-  - 500 Gramm Mehl
-  - 1/4 Liter lauwarme Milch
-  - 1 Päckchen Trockenhefe
-  - 1 Ei
-  - 50 g weiche Butter
-  - 75 g Zucker
-  - 1 Päckchen Vanillezucker
-  - 1 Prise Salz
-  - "zum Verzieren:"
-  - Rosinen
-  - Mandeln
-  - Walnüsse
-  - Kürbiskerne etc.
-  - "zum Bestreichen:"
-  - 1 Eigelb
-  - 3 Esslöffel Milch
+ingredients: |-
+  Für den Teig:
+  * 500 Gramm Mehl
+  * 1/4 Liter lauwarme Milch
+  * 1 Päckchen Trockenhefe
+  * 1 Ei
+  * 50 g weiche Butter
+  * 75 g Zucker
+  * 1 Päckchen Vanillezucker
+  * 1 Prise Salz
+
+  Zum Verzieren:
+  * Rosinen
+  * Mandeln
+  * Walnüsse
+  * Kürbiskerne etc.
+
+  Zum Bestreichen:
+  * 1 Eigelb
+  * 3 Esslöffel Milch
 category:
   - desserts
   - bread / buns

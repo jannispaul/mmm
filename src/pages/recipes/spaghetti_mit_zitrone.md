@@ -6,14 +6,14 @@ description: tbd
 featuredImage: /img/ba-recipe-pasta-al-limone.jpg
 time: 30
 portions: 4
-ingredients:
-  - 1 lemon
-  - 12 oz. spaghetti or other long pasta
-  - Kosher salt
-  - ¾ cup heavy cream
-  - 6 Tbsp. unsalted butter
-  - 3 oz. finely grated Parmesan (about ¾ cup)
-  - Freshly ground black pepper
+ingredients: |-
+  * 1 lemon
+  * 12 oz. spaghetti or other long pasta
+  * Kosher salt
+  * ¾ cup heavy cream
+  * 6 Tbsp. unsalted butter
+  * 3 oz. finely grated Parmesan (about ¾ cup)
+  * Freshly ground black pepper
 category:
   - maindishes
 tags:

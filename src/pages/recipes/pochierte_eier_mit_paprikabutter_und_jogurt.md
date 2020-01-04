@@ -6,13 +6,13 @@ description: tbd
 featuredImage: /img/image.jpeg
 time: 15
 portions: 2
-ingredients:
-  - 4 Eier
-  - 2 El. Paprikapulver
-  - Butter
-  - 5 Knoblauchzehen
-  - Griescherer Jogurt
-  - Frischhaltefolie
+ingredients: |-
+  * 4 Eier
+  * 2 El. Paprikapulver
+  * Butter
+  * 5 Knoblauchzehen
+  * Griescherer Jogurt
+  * Frischhaltefolie
 category:
   - maindishes
 tags:

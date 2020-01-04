@@ -6,15 +6,15 @@ description: tbd
 featuredImage: /img/img_20170330_121804.jpg
 time: 15
 portions: 4
-ingredients:
-  - Halber Dose Kichererbsen
-  - 8-9 Kirschtomaten
-  - 1 Avocado
-  - 1/3 Dose Mais
-  - 1/3 Packung Feta
-  - Olivenöl
-  - Zitronensaft
-  - Salz
+ingredients: |-
+  * Halber Dose Kichererbsen
+  * 8-9 Kirschtomaten
+  * 1 Avocado
+  * 1/3 Dose Mais
+  * 1/3 Packung Feta
+  * Olivenöl
+  * Zitronensaft
+  * Salz
 category:
   - maindishes
 tags:

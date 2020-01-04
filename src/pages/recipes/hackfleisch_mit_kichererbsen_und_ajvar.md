@@ -6,15 +6,15 @@ description: tbd
 featuredImage: /img/kichererbsenpfanne-1250675.jpg
 time: 30
 portions: 4
-ingredients:
-  - 1 Zwiebel
-  - 3 Knoblauchzehen
-  - 1 rote Paprika
-  - 500g Rindhackfleisch
-  - Halbes Glas Ajvar
-  - Gewürze (Chili, Paprika, etc.)
-  - 1 große Dose Kickererbsen
-  - 100g Feta
+ingredients: |-
+  * 1 Zwiebel
+  * 3 Knoblauchzehen
+  * 1 rote Paprika
+  * 500g Rindhackfleisch
+  * Halbes Glas Ajvar
+  * Gewürze (Chili, Paprika, etc.)
+  * 1 große Dose Kickererbsen
+  * 100g Feta
 category:
   - maindishes
 tags:

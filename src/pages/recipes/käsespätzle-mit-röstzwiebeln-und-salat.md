@@ -5,33 +5,36 @@ date: 2020-01-01T19:33:00.790Z
 featuredImage: /img/img_9477.jpg
 time: 90
 portions: 4
-ingredients:
-  - "Für die Spätzle:"
-  - 1 1/2 TL Salz
-  - Muskat
-  - Kurkuma
-  - 7 Eier (Gr. M)
-  - 350 g Spätzlemehl oder Instantmehl
-  - "Für die Zwiebeln:"
-  - 4 große Zwiebeln
-  - 4 EL Mehl
-  - 2 TL Paprikapulver
-  - Palmin oder anderes Fett zum Ausbacken
-  - "Für den Salat:"
-  - Blattsalat (Endivie oder grüner)
-  - Essig
-  - Öl
-  - Senf
-  - Knoblauch
-  - Salz
-  - Pfeffer
-  - Honig
-  - "Außerdem:"
-  - 40 g Butter
-  - 4 EL Sahne oder Creme fraiche
-  - 150 g Bergkäse fein gerieben
-  - 150 g Emmentaler fein gerieben
-  - 1 Bd. Schnittlauch in Röllchen
+ingredients: |-
+  Für die Spätzle:
+  * 1 1/2 TL Salz
+  * Muskat
+  * Kurkuma
+  * 7 Eier (Gr. M)
+  * 350 g Spätzlemehl oder Instantmehl
+
+  Für die Zwiebeln:
+  * 4 große Zwiebeln
+  * 4 EL Mehl
+  * 2 TL Paprikapulver
+  * Palmin oder anderes Fett zum Ausbacken
+
+  Für den Salat:
+  * Blattsalat (Endivie oder grüner)
+  * Essig
+  * Öl
+  * Senf
+  * Knoblauch
+  * Salz
+  * Pfeffer
+  * Honig
+
+  Außerdem:
+  * 40 g Butter
+  * 4 EL Sahne oder Creme fraiche
+  * 150 g Bergkäse fein gerieben
+  * 150 g Emmentaler fein gerieben
+  * 1 Bd. Schnittlauch in Röllchen
 category:
   - maindishes
 tags:

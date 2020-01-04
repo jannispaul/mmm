@@ -6,12 +6,12 @@ description: tbd
 featuredImage: /img/perfect-mashed-potatoes-vertical-a-1800.jpg
 time: 60
 portions: 5
-ingredients:
-  - 500 g Kartoffeln
-  - 7 Knoblauchzehe
-  - Butter
-  - Sahne (oder Milch oder Half/Half)
-  - Salz
+ingredients: |-
+  * 500 g Kartoffeln
+  * 7 Knoblauchzehe
+  * Butter
+  * Sahne (oder Milch oder Half/Half)
+  * Salz
 category:
   - sidedishes
 tags:

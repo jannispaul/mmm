@@ -6,18 +6,18 @@ description: tbd
 featuredImage: /img/thai-curry-gemuese-3.jpg
 time: 30
 portions: 4
-ingredients:
-  - Gemüse Zucchini
-  - Zuckerschoten
-  - Möhren
-  - Zwiebel
-  - Paprika usw.
-  - Ananas (Optional)
-  - Hähnchenbrust
-  - Currypaste
-  - 1 Dose Kokosmilch
-  - Gewürze
-  - Reis
+ingredients: |-
+  * Gemüse Zucchini
+  * Zuckerschoten
+  * Möhren
+  * Zwiebel
+  * Paprika usw.
+  * Ananas (Optional)
+  * Hähnchenbrust
+  * Currypaste
+  * 1 Dose Kokosmilch
+  * Gewürze
+  * Reis
 category:
   - maindishes
 tags:

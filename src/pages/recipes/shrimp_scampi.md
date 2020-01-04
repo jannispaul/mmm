@@ -6,15 +6,15 @@ description: tbd
 featuredImage: /img/shrimp-scampi-culinary-hill-3-660x990.jpg
 time: 30
 portions: 4
-ingredients:
-  - 1 Zwiebel
-  - 4 Knoblauchzehe
-  - Zucker
-  - Weisswein
-  - Butter
-  - Zitronensaft
-  - Garnelen
-  - Spaghetti (o.ä.)
+ingredients: |-
+  * 1 Zwiebel
+  * 4 Knoblauchzehe
+  * Zucker
+  * Weisswein
+  * Butter
+  * Zitronensaft
+  * Garnelen
+  * Spaghetti (o.ä.)
 category:
   - maindishes
 tags:

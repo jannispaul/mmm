@@ -6,19 +6,19 @@ description: tbd
 featuredImage: /img/basically-coconut-chicken-1.jpg
 time: 180
 portions: 4
-ingredients:
-  - 6 skin-on bone-in chicken thighs (about 1½ lb. total)
-  - 2 Tbsp. und ½ tsp. Salz
-  - 2 medium rote Zwiebeln
-  - 3 Knoblauchzehen
-  - 1 5cm Stück frischer Ingwer
-  - 2 Tbsp. Curry Pulver wie  Garam Masala
-  - 1 13.5-oz. can unsweetened coconut milk
-  - 3 small sweet potatoes, scrubbeds
-  - ½ cup large unsweetened coconut flakes
-  - 2 limes
-  - A small handful of cilantro
-  - Basmati or jasmine rice (for serving)
+ingredients: |-
+  * 6 skin-on bone-in chicken thighs (about 1½ lb. total)
+  * 2 Tbsp. und ½ tsp. Salz
+  * 2 medium rote Zwiebeln
+  * 3 Knoblauchzehen
+  * 1 5cm Stück frischer Ingwer
+  * 2 Tbsp. Curry Pulver wie  Garam Masala
+  * 1 13.5 oz. can unsweetened coconut milk
+  * 3 small sweet potatoes, scrubbeds
+  * ½ cup large unsweetened coconut flakes
+  * 2 limes
+  * A small handful of cilantro
+  * Basmati or jasmine rice (for serving)
 category:
   - maindishes
 tags:

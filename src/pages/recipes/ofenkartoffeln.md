@@ -6,11 +6,11 @@ description: tbd
 featuredImage: /img/easy-oven-fries-recipe-1-1-660x924.jpg
 time: 60
 portions: 4
-ingredients:
-  - 500 g Kartoffeln
-  - 5-6 Knoblauchzehe
-  - Frische Kräuter nach Belieb
-  - Olivenöl
+ingredients: |-
+  * 500 g Kartoffeln
+  * 5-6 Knoblauchzehe
+  * Frische Kräuter nach Belieb
+  * Olivenöl
 category:
   - sidedishes
 tags:

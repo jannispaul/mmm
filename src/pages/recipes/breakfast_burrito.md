@@ -6,12 +6,12 @@ description: tbd
 featuredImage: /img/breakfast-burritos-campfire-style-taste-and-tell-1.jpg
 time: 15
 portions: 1
-ingredients:
-  - Rührei
-  - Tomate
-  - Ziegenkäse
-  - Hot Sauce
-  - Tortillas
+ingredients: |-
+  * Rührei
+  * Tomate
+  * Ziegenkäse
+  * Hot Sauce
+  * Tortillas
 category:
   - maindishes
 tags:
@@ -20,6 +20,7 @@ tags:
   - Frühstück
   - Breakfast
 ---
+
 Tomaten würfeln. Ziegenkäse zerkrümeln. Die Eier rühren und auf gewünschte Konsistenz kochen. Alle Zutaten in ein Tortilla zugeben und wie ein Burrito aufrollen.
 
 Sofort Essen oder ein paar Tagen im Kühlschrank lagern – eine gute Mahlzeit für Unterwegs!

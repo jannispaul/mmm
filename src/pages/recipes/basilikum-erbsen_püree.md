@@ -6,15 +6,15 @@ description: tbd
 featuredImage: /img/homemade-basil-pesto-5.jpg
 time: 15
 portions: 1
-ingredients:
-  - 1 Basilikum Töpfchen
-  - ~400g gekochte Erbsen
-  - ~2 Knoblauchzehen
-  - Olivenöl
-  - Parmesan
-  - Frischer Zitronensaft
-  - Honig
-  - Pinienkerne
+ingredients: |-
+  * 1 Basilikum Töpfchen
+  * ~400g gekochte Erbsen
+  * ~2 Knoblauchzehen
+  * Olivenöl
+  * Parmesan
+  * Frischer Zitronensaft
+  * Honig
+  * Pinienkerne
 category:
   - sidedishes
 tags:
@@ -22,4 +22,5 @@ tags:
   - Sauce
   - Dip
 ---
+
 Alle Zutaten zusammen pürieren und die Mengen nach Geschmack anpassen. Sofort zu Fisch oder Fleisch wie Schweinefilet servieren oder eine Woche im Kühlschrank aufbewahren.

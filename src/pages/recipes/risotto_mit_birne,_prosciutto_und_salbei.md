@@ -9,27 +9,24 @@ description: >-
 featuredImage: /img/3756313.jpg
 time: 60
 portions: 4
-ingredients:
-  - Olivenöl
-  - • 4 dünne Scheiben Prosciutto
-  - (1 ounce)
-  - 2 thinly sliced crosswise and 1 finely chopped
-  - divided • 4 fresh sage leaves
-  - plus 1 teaspoon minced fresh sage
-  - divided
-  - • 1
-  - 5 L Hühnerbrühe
-  - • 1 El. Olivenöl
-  - • 2 El. Schallote
-  - minced
-  - • 130 g (1 cup) Arborioreis
-  - • 2 reife Birnen (~260 g/2 cups)
-  - finely diced peeled ripe Bosc pears
-  - (about 2 pears)
-  - divided
-  - • 80 mL (1⁄3 cup) trockener Weißwein
-  - • 2 El. geriebene Parmigiano-Reggiano
-  - • 1 El. Butter
+ingredients: |-
+  * Olivenöl
+  * 4 dünne Scheiben Prosciutto (1 ounce)
+  * 2 thinly sliced crosswise and 1 finely chopped
+  * divided 4 fresh sage leaves
+  * plus 1 teaspoon minced fresh sage
+  * divided
+  * 1
+  * 5 L Hühnerbrühe
+  * 1 El. Olivenöl
+  * 2 El. Schallote minced
+  * 130 g (1 cup) Arborioreis
+  * 2 reife Birnen (~260 g/2 cups)
+  * finely diced peeled ripe Bosc pears
+  * about 2 pears divided
+  * 80 mL (1⁄3 cup) trockener Weißwein
+  * 2 El. geriebene Parmigiano-Reggiano
+  * 1 El. Butter
 category:
   - maindishes
 tags:

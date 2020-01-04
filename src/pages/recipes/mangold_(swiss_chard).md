@@ -6,14 +6,14 @@ description: tbd
 featuredImage: /img/sauteed-swiss-chard-thumbnail.jpg
 time: 15
 portions: 1
-ingredients:
-  - Mangold
-  - Zwiebel
-  - Knoblauch
-  - Äpfeln
-  - Öl
-  - Weisswein
-  - Apfelessig
+ingredients: |-
+  * Mangold
+  * Zwiebel
+  * Knoblauch
+  * Äpfeln
+  * Öl
+  * Weisswein
+  * Apfelessig
 category:
   - sidedishes
 tags:

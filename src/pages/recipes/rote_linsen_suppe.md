@@ -6,22 +6,22 @@ description: tbd
 featuredImage: /img/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-articlelarge.jpg
 time: 60
 portions: 4
-ingredients:
-  - Olivenöl
-  - 1 großer Zwiebel
-  - gewürfelt
-  - 3 Knoblauchzehe
-  - fein geschnitten
-  - 1 große Möhre
-  - gewürfelt
-  - 1 Teelöffel Cumin
-  - 1⁄4 Teelöffel Salz
-  - Chili oder Cayennepfeffer (nach Geschmack)
-  - 1 Esslöffel Tomatenmark
-  - 1 cup rote Linsen
-  - 1 quart Huhn oder Rindfond
-  - 2 cups Wasser
-  - Zitronensaft (nach geschmack)
+ingredients: |-
+  * Olivenöl
+  * 1 großer Zwiebel
+  * gewürfelt
+  * 3 Knoblauchzehe
+  * fein geschnitten
+  * 1 große Möhre
+  * gewürfelt
+  * 1 Teelöffel Cumin
+  * 1⁄4 Teelöffel Salz
+  * Chili oder Cayennepfeffer (nach Geschmack)
+  * 1 Esslöffel Tomatenmark
+  * 1 cup rote Linsen
+  * 1 quart Huhn oder Rindfond
+  * 2 cups Wasser
+  * Zitronensaft (nach geschmack)
 category:
   - maindishes
 tags:

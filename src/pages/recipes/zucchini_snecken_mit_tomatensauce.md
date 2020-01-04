@@ -6,16 +6,16 @@ description: tbd
 featuredImage: /img/zucchini_cannelloni-7.jpg
 time: 30
 portions: 2
-ingredients:
-  - 2 große Zucchini
-  - 1 Zwiebel
-  - 1 Knoblauchzehe
-  - 1 EL Olivenöl
-  - 400g gehackte Tomaten
-  - 1 EL gehacktes Basilikum
-  - Salz
-  - Pfeffer
-  - 100g Ricotta
+ingredients: |-
+  * 2 große Zucchini
+  * 1 Zwiebel
+  * 1 Knoblauchzehe
+  * 1 EL Olivenöl
+  * 400g gehackte Tomaten
+  * 1 EL gehacktes Basilikum
+  * Salz
+  * Pfeffer
+  * 100g Ricotta
 category:
   - maindishes
 tags:

@@ -6,18 +6,18 @@ description: tbd
 featuredImage: /img/b985b6851fbc2da0a3ca72b412e0db7c.jpg
 time: 180
 portions: 6
-ingredients:
-  - 4 Hähnchenunterkeulen (möglichst Maishähnchen)
-  - Frischer Thymian und/oder Rosmarin
-  - 6 bis 8 kleine Schalotten
-  - 2 Möhren
-  - 1 große oder 2 kleine rote Paprika (kann man auch weglassen)
-  - 1 Flasche Martini dry (nicht bianco!)
-  - 1 Becher Sahne
-  - 2 Eßl. Mehl
-  - Salz
-  - Pfeffer
-  - Honig
+ingredients: |-
+  * 4 Hähnchenunterkeulen (möglichst Maishähnchen)
+  * Frischer Thymian und/oder Rosmarin
+  * 6 bis 8 kleine Schalotten
+  * 2 Möhren
+  * 1 große oder 2 kleine rote Paprika (kann man auch weglassen)
+  * 1 Flasche Martini dry (nicht bianco!)
+  * 1 Becher Sahne
+  * 2 Eßl. Mehl
+  * Salz
+  * Pfeffer
+  * Honig
 category:
   - maindishes
 tags:

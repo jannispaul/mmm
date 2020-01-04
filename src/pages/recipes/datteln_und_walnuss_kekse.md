@@ -6,17 +6,17 @@ description: tbd
 featuredImage: /img/19iowa-articlelarge.jpg
 time: 90
 portions: 8
-ingredients:
-  - 350g (2 1⁄2 cups) Mehl
-  - 1 Tl. Salz
-  - 1 Tl. Zimt
-  - 1⁄2 Tl. gemahlene Nelken
-  - 8 ounces/227g aufgeweichte Butter (ungesalzen)
-  - 300g (1 1⁄2 cups) hellbrauner Zucker
-  - 3 große Eier (leicht geschlagen)
-  - 1 El. Natron (Baking Soda)
-  - 1 pound/450g gehackte Datteln
-  - 1 pound/450g gehackte Walnusse oder Pekannusse
+ingredients: |-
+  * 350g (2 1⁄2 cups) Mehl
+  * 1 Tl. Salz
+  * 1 Tl. Zimt
+  * 1⁄2 Tl. gemahlene Nelken
+  * 8 ounces/227g aufgeweichte Butter (ungesalzen)
+  * 300g (1 1⁄2 cups) hellbrauner Zucker
+  * 3 große Eier (leicht geschlagen)
+  * 1 El. Natron (Baking Soda)
+  * 1 pound/450g gehackte Datteln
+  * 1 pound/450g gehackte Walnusse oder Pekannusse
 category:
   - desserts
   - cake / cookies

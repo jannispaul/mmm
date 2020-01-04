@@ -6,17 +6,17 @@ description: tbd
 featuredImage: /img/bacon-tomato-pasta-0911med107344_sq.jpg
 time: 30
 portions: 4
-ingredients:
-  - 450g Pasta (z.B. Penne oder Farfalle)
-  - 1 Zwiebel
-  - Zucker
-  - 3 Knoblauchzehen
-  - Etwa trockener Weisswein
-  - 125g Speckwürfeln/Bacon
-  - 480g Dosentomate
-  - 1 El. Tomatenmark
-  - Butter
-  - Panko
+ingredients: |-
+  * 450g Pasta (z.B. Penne oder Farfalle)
+  * 1 Zwiebel
+  * Zucker
+  * 3 Knoblauchzehen
+  * Etwa trockener Weisswein
+  * 125g Speckwürfeln/Bacon
+  * 480g Dosentomate
+  * 1 El. Tomatenmark
+  * Butter
+  * Panko
 category:
   - maindishes
 tags:

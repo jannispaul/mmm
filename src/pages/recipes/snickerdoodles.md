@@ -6,16 +6,16 @@ description: TBD
 featuredImage: /img/snickerdoodle-cookies.jpg
 time: 30
 portions: 10
-ingredients:
-  - 230 g (1 cup) Butter
-  - 190 g (1 1/2 cups) Zucker
-  - 2 große Eier
-  - 350 g (2 3/4 cups) Mehl
-  - 2 Tl. Reinweinstein Backpulver (cream of tartar)
-  - 1 Tl. Natron (baking soda)
-  - 1/4 Tl. Salz
-  - 3 El. Zucker
-  - 3 El. Zimt
+ingredients: |-
+  * 230 g (1 cup) Butter
+  * 190 g (1 1/2 cups) Zucker
+  * 2 große Eier
+  * 350 g (2 3/4 cups) Mehl
+  * 2 Tl. Reinweinstein Backpulver (cream of tartar)
+  * 1 Tl. Natron (baking soda)
+  * 1/4 Tl. Salz
+  * 3 El. Zucker
+  * 3 El. Zimt
 category:
   - desserts
   - cake / cookies

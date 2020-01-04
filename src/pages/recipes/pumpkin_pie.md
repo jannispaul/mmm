@@ -6,18 +6,16 @@ description: tbd
 featuredImage: /img/pumpkin-pie-small-1.jpg
 time: 60
 portions: 8
-ingredients:
-  - 1 15 oz./425g Dose Kürbispuree
-  - >-
-    1 14 oz./396g Dose gezuckerte Kondensmilch (z.B. Eagle Brand oder
+ingredients: |-
+  * 1 15 oz./425g Dose Kürbispuree
+  * 1 14 oz./396g Dose gezuckerte Kondensmilch (z.B. Eagle Brand oder
     Milchmädchen)
-  - 2 große Eier
-  - 1 Tl. Zimt
-  - 1/2 Tl. Ingwerpulver
-  - 1/2 Tl. gemahlene Muskatnuss
-  - 1/2 Tl. Salz
-  - >-
-    1 9-inch/23cm ungebackene Piekruste (z.B. Tiefgefroren oder Betty Crocker
+  * 2 große Eier
+  * 1 Tl. Zimt
+  * 1/2 Tl. Ingwerpulver
+  * 1/2 Tl. gemahlene Muskatnuss
+  * 1/2 Tl. Salz
+  * 1 23 cm (9 inch) ungebackene Piekruste (z.B. Tiefgefroren oder Betty Crocker
     Mischung)
 category:
   - desserts

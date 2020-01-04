@@ -7,13 +7,13 @@ featuredImage: >-
   /img/lebanese-green-beans-with-tomatoes-and-cinnamon-a-healthy-side-dish-recipe.jpg
 time: 15
 portions: 4
-ingredients:
-  - Olivenöl
-  - 1 Zwiebel
-  - 2-3 Knoblauchzehen
-  - 400g grüne Bohnen
-  - 1 kleine Dose gehackte Tomate
-  - Salze
+ingredients: |-
+  * Olivenöl
+  * 1 Zwiebel
+  * 2-3 Knoblauchzehen
+  * 400g grüne Bohnen
+  * 1 kleine Dose gehackte Tomate
+  * Salze
 category:
   - sidedishes
 tags:

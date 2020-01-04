@@ -6,22 +6,22 @@ description: tbd
 featuredImage: /img/shakshuka-with-feta-6.jpg
 time: 60
 portions: 4
-ingredients:
-  - 3 El. Olivenöl
-  - 1 große Zwiebel
-  - halved and thinly sliced
-  - 1 große rote Paprika
-  - seeded and thinly sliced
-  - 3 Knoblauchzehen
-  - thinly sliced
-  - 1 Tl. Cumin/Kreuzkümmel
-  - 1 Tl. süße Paprikapulver
-  - Cayennepfeffer nach Bedarf
-  - 1 große Dose gestückelte Tomaten
-  - Salz und Pfeffer
-  - 150 g Feta
-  - crumbled (about 1 1/4 cups)
-  - 6 große Eier
+ingredients: |-
+  * 3 El. Olivenöl
+  * 1 große Zwiebel
+  * halved and thinly sliced
+  * 1 große rote Paprika
+  * seeded and thinly sliced
+  * 3 Knoblauchzehen
+  * thinly sliced
+  * 1 Tl. Cumin/Kreuzkümmel
+  * 1 Tl. süße Paprikapulver
+  * Cayennepfeffer nach Bedarf
+  * 1 große Dose gestückelte Tomaten
+  * Salz und Pfeffer
+  * 150 g Feta
+  * crumbled (about 1 1/4 cups)
+  * 6 große Eier
 category:
   - maindishes
 tags:

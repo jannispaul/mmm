@@ -6,17 +6,17 @@ description: tbd
 featuredImage: /img/6a6739f5f46c9915acc94c9abaf135ae.jpg
 time: 30
 portions: 10
-ingredients:
-  - 230g (1 3/4 cups) Haferflocken
-  - 196g (3/4 cup) Mehl
-  - 3/4 Tl. Zimt
-  - 1/2 Tl. Natron
-  - 1/2 Tl. Salz
-  - 1 1/4 sticks/285g angeweichte Butter
-  - 40g (1/3 cup) hellbrauner Zucker
-  - 40g (1/3 cup) Zucker
-  - 1 große Ei
-  - 1/2 Tl. Vanille
+ingredients: |-
+  * 230g (1 3/4 cups) Haferflocken
+  * 196g (3/4 cup) Mehl
+  * 3/4 Tl. Zimt
+  * 1/2 Tl. Natron
+  * 1/2 Tl. Salz
+  * 1 1/4 sticks/285g angeweichte Butter
+  * 40g (1/3 cup) hellbrauner Zucker
+  * 40g (1/3 cup) Zucker
+  * 1 große Ei
+  * 1/2 Tl. Vanille
 category:
   - desserts
   - cake / cookies

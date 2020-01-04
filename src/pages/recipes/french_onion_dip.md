@@ -6,22 +6,22 @@ description: tbd
 featuredImage: /img/healthy-french-onion-dip-photo-vert.jpg
 time: 90
 portions: 4
-ingredients:
-  - 2 Eßl. Olivenöl
-  - 1 Zwiebel
-  - fein gehackt
-  - 2 Knoblauchzehe
-  - gerieben
-  - Thymian
-  - 1 kleine Schallote shallot
-  - fein gehackt
-  - 1 becher saure Sahne
-  - ¼ cup Schnittlauch
-  - gehackt
-  - 1 Eßl. Zitronensaft
-  - Salz
-  - Pfeffer
-  - Chips usw. für Serverien
+ingredients: |-
+  * 2 Eßl. Olivenöl
+  * 1 Zwiebel
+  * fein gehackt
+  * 2 Knoblauchzehe
+  * gerieben
+  * Thymian
+  * 1 kleine Schallote shallot
+  * fein gehackt
+  * 1 becher saure Sahne
+  * ¼ cup Schnittlauch
+  * gehackt
+  * 1 Eßl. Zitronensaft
+  * Salz
+  * Pfeffer
+  * Chips usw. für Serverien
 category:
   - appetizers
 tags:

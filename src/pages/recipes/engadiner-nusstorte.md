@@ -5,24 +5,26 @@ date: 2020-01-01T19:26:05.858Z
 featuredImage: /img/img_7239.jpg
 time: 90
 portions: 12
-ingredients:
-  - "Für den Teig:"
-  - 300 g Mehl (gesiebt)
-  - 100 g Zucker
-  - 1 Prise Salz
-  - 1 Ei
-  - 200 g Butter in Würfeln (kalt)
-  - "Für die Füllung:"
-  - 200 g Walnüsse
-  - 100 g Pekannüsse
-  - 250 g Zucker
-  - 1 EL Honig
-  - 1 Becher Schlagsahne
-  - 1/2 TL Fleur de Sel
-  - "zum Bestreichen:"
-  - 1 Eigelb
-  - 12 Walnusshälften zum Verzieren
-  - etwas dunkle Schokolade
+ingredients: |-
+  Für den Teig:
+  * 300 g Mehl (gesiebt)
+  * 100 g Zucker
+  * 1 Prise Salz
+  * 1 Ei
+  * 200 g Butter in Würfeln (kalt)
+
+  Für die Füllung:
+  * 200 g Walnüsse
+  * 100 g Pekannüsse
+  * 250 g Zucker
+  * 1 EL Honig
+  * 1 Becher Schlagsahne
+  * 1/2 TL Fleur de Sel
+
+  zum Bestreichen:
+  * 1 Eigelb
+  * 12 Walnusshälften zum Verzieren
+  * etwas dunkle Schokolade
 category:
   - desserts
 tags:

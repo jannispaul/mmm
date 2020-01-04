@@ -6,17 +6,17 @@ description: tbd
 featuredImage: /img/img_20180515_192705.jpg
 time: 30
 portions: 4
-ingredients:
-  - 4 El. Olivenöl
-  - 2 El. frische Zitronensaft
-  - 2 große Knoblauchzehen
-  - 1/2 Tl. feingeriebene Zitronenschale
-  - 170g (1 1/3 cups) Israeli Couscous
-  - 400ml (1 3/4 cups) (evtl. mehr) Rinderfond
-  - 400g (14 oz.) schmale grüne Spargel
-  - 200g (8 oz.) Zuckerschoten
-  - 130g (1 cup) aufgetaute Tiefkühl-Erbsen
-  - 65g (1/2 cup) geriebene Parmesan
+ingredients: |-
+  * 4 El. Olivenöl
+  * 2 El. frische Zitronensaft
+  * 2 große Knoblauchzehen
+  * 1/2 Tl. feingeriebene Zitronenschale
+  * 170g (1 1/3 cups) Israeli Couscous
+  * 400ml (1 3/4 cups) (evtl. mehr) Rinderfond
+  * 400g (14 oz.) schmale grüne Spargel
+  * 200g (8 oz.) Zuckerschoten
+  * 130g (1 cup) aufgetaute Tiefkühl-Erbsen
+  * 65g (1/2 cup) geriebene Parmesan
 category:
   - maindishes
 tags:

@@ -6,8 +6,8 @@ description: tbd
 featuredImage: /img/luscious-lemon-bars.jpg
 time: 30
 portions: 4
-ingredients:
-  - Lemon
+ingredients: |-
+  Lemon
 category:
   - desserts
   - cake / cookies

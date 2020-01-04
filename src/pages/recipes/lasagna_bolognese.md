@@ -6,33 +6,33 @@ description: tbd
 featuredImage: /img/most-amazing-lasagna-4-e1503516670834.jpg
 time: 90
 portions: 6
-ingredients:
-  - Bolognese Sauce
-  - 1 large onion
-  - coarsely chopped
-  - 1 medium carrot
-  - peeled
-  - coarsely chopped 1 celery stalk
-  - coarsely chopped
-  - 2 tablespoons olive oil
-  - 1 pound ground beef chuck
-  - 1 pound ground pork
-  - 4 oz. pancetta (Italian bacon)
-  - finely chopped Kosher salt and freshly ground black pepper 1 cup dry white
+ingredients: |-
+  * Bolognese Sauce
+  * 1 large onion
+  * coarsely chopped
+  * 1 medium carrot
+  * peeled
+  * coarsely chopped 1 celery stalk
+  * coarsely chopped
+  * 2 tablespoons olive oil
+  * 1 pound ground beef chuck
+  * 1 pound ground pork
+  * 4 oz. pancetta (Italian bacon)
+  * finely chopped Kosher salt and freshly ground black pepper 1 cup dry white
     wine
-  - 1 cup whole milk
-  - 1 14.5-oz. can crushed tomatoes
-  - 3 cups low-sodium chicken broth
-  - divided
-  - Lasagnenudeln
-  - Béchamel
-  - 5 tablespoons unsalted butter 1⁄4 cup all-purpose flour
-  - 4 cups whole milk
-  - warmed pinch of freshly ground nutmeg Kosher salt
-  - Assembly
-  - Kosher salt
-  - Unsalted butter
-  - room temperature (for dish) 2 cups finely grated Parmesan
+  * 1 cup whole milk
+  * 1 14.5 oz. can crushed tomatoes
+  * 3 cups low-sodium chicken broth
+  * divided
+  * Lasagnenudeln
+  * Béchamel
+  * 5 tablespoons unsalted butter 1⁄4 cup all-purpose flour
+  * 4 cups whole milk
+  * warmed pinch of freshly ground nutmeg Kosher salt
+  * Assembly
+  * Kosher salt
+  * Unsalted butter
+  * room temperature (for dish) 2 cups finely grated Parmesan
 category:
   - maindishes
 tags:

@@ -6,17 +6,17 @@ featuredImage: >-
   /img/ein-stueck-pfirsich-maracuja-torte-von-vorn-die-kleine-windmuehle_hf-683x1024.jpg
 time: 30
 portions: 12
-ingredients:
-  - 3 Eier
-  - 1 Eßl. Vanillezucker
-  - 145 g  Zucker
-  - 200 g Mandeln gemahlen
-  - 1 TL Backpulver
-  - 1 gr. Dose Pfiriche (Tortenschnitze)
-  - 500 ml süße Sahne
-  - 2 Tütchen Sahnesteif
-  - 250 ml Maracuja-Nektar
-  - 2 Tütchen Vanillesaucenpulver (ohne Kochen)
+ingredients: |-
+  * 3 Eier
+  * 1 Eßl. Vanillezucker
+  * 145 g  Zucker
+  * 200 g Mandeln gemahlen
+  * 1 TL Backpulver
+  * 1 gr. Dose Pfiriche (Tortenschnitze)
+  * 500 ml süße Sahne
+  * 2 Tütchen Sahnesteif
+  * 250 ml Maracuja-Nektar
+  * 2 Tütchen Vanillesaucenpulver (ohne Kochen)
 category:
   - cake / cookies
   - desserts

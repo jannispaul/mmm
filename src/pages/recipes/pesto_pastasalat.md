@@ -6,19 +6,19 @@ description: tbd
 featuredImage: /img/caprese-pasta-salad-web-2.jpg
 time: 15
 portions: 6
-ingredients:
-  - Pestosauce (link to recipe)
-  - Kirschtomaten
-  - Kleine Mozzarella-Bällchen
-  - Geröstete Pinienkerne
-  - Farfalle o.ä.
+ingredients: |-
+  * Pestosauce (link to recipe)
+  * Kirschtomaten
+  * Kleine Mozzarella-Bällchen
+  * Geröstete Pinienkerne
+  * Farfalle o.ä.
 category:
   - maindishes
 tags:
   - Pasta
   - Salat
   - Sommer
-  - ''
+  - ""
 ---
 
 Bring a large pot of salt water to boil and cook pasta to box instructions. Toast pine nuts in a small pan. Prepare pesto, tomatoes, and mozzarella. Toss in a large bowl and chill in fridge until cooled.

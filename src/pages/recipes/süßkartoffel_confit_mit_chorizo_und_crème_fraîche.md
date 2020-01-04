@@ -6,20 +6,20 @@ description: tbd
 featuredImage: /img/15chef2-articlelarge-v2.jpg
 time: 90
 portions: 6
-ingredients:
-  - 1 (8­ounce) container crème fraîche 2 tablespoons lemon or yuzu juice
-  - 2 pounds sweet potatoes (about 2 or 3)
-  - Kosher salt
-  - Ground black pepper
-  - About 3 cups olive oil
-  - depending on the size of the baking dish
-  - 1⁄2 cup bacon fat (optional)
-  - 2 tablespoons unsalted butter
-  - 1⁄2 pound spicy fresh chorizo
-  - 1⁄2 cup toasted pecans
-  - roughly chopped
-  - 1⁄4 cup mint leaves
-  - torn
+ingredients: |-
+  * 1 (8­ounce) container crème fraîche 2 tablespoons lemon or yuzu juice
+  * 2 pounds sweet potatoes (about 2 or 3)
+  * Kosher salt
+  * Ground black pepper
+  * About 3 cups olive oil
+  * depending on the size of the baking dish
+  * 1⁄2 cup bacon fat (optional)
+  * 2 tablespoons unsalted butter
+  * 1⁄2 pound spicy fresh chorizo
+  * 1⁄2 cup toasted pecans
+  * roughly chopped
+  * 1⁄4 cup mint leaves
+  * torn
 category:
   - maindishes
   - appetizers

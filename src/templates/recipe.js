@@ -236,9 +236,11 @@ const RecipeTemplate = props => {
               <Headline2>Zutaten</Headline2>
               <hr></hr>
               <IngredientListItem>
-                {props.data.markdownRemark.frontmatter.ingredients.map(node => (
-                  <li key={node}>{node}</li>
-                ))}
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: props.data.markdownRemark.fields.ingredients
+                  }}
+                />
               </IngredientListItem>
             </IngredientsContainer>
           </CenterContainer>
@@ -287,6 +289,9 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        ingredients
+      }
       frontmatter {
         date(formatString: "DD. MMMM YYYY", locale: "DE_DE")
         title
@@ -294,7 +299,6 @@ export const pageQuery = graphql`
         tags
         portions
         time
-        ingredients
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 2890, quality: 65) {

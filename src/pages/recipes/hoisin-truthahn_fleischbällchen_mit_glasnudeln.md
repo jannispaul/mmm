@@ -6,32 +6,32 @@ description: tbd
 featuredImage: /img/healthyish-superpowered-chicago-1.jpg
 time: 60
 portions: 4
-ingredients:
-  - Fleischbällchen
-  - Pflanzenöl
-  - 65g (1⁄2 cup)(bundte) Quinoa
-  - Salz
-  - 3 Knoblauchzehen
-  - 2.5cm (1 1") Stück Ingwer
-  - 1⁄2 Tl. geschrotete Chiliflocken
-  - 5 El. Hoisinsauce
-  - 500g (1 lb.) Trutahnhackfleisch (evtl. auch Schweinehackfleisch)
-  - Nudeln
-  - 200g (4 oz.) Glasnudeln
-  - 2 El. Sojasauce
-  - 3 Knoblauchzehen
-  - 1 1"/2.5cm Stück Ingwer
-  - 1 El. Sesamöl
-  - 1 El. Reisessig (evtl. auch Weissweinessig)
-  - 2 Tl. Zucker
-  - 2 El. Pflanzenöl
-  - 150g (2 cups) Zuckerschoten oder Knackerbsen
-  - 2 kleine Zucchini cut into matchsticks (about 4 cups)
-  - Salz
-  - null
-  - Frühlingszwiebeln
-  - Geröstete Sesamsamen
-  - Limettenspalten
+ingredients: |-
+  * Fleischbällchen
+  * Pflanzenöl
+  * 65g (1⁄2 cup)(bundte) Quinoa
+  * Salz
+  * 3 Knoblauchzehen
+  * 2.5cm (1 1") Stück Ingwer
+  * 1⁄2 Tl. geschrotete Chiliflocken
+  * 5 El. Hoisinsauce
+  * 500g (1 lb.) Trutahnhackfleisch (evtl. auch Schweinehackfleisch)
+  * Nudeln
+  * 200g (4 oz.) Glasnudeln
+  * 2 El. Sojasauce
+  * 3 Knoblauchzehen
+  * 1 1"/2.5cm Stück Ingwer
+  * 1 El. Sesamöl
+  * 1 El. Reisessig (evtl. auch Weissweinessig)
+  * 2 Tl. Zucker
+  * 2 El. Pflanzenöl
+  * 150g (2 cups) Zuckerschoten oder Knackerbsen
+  * 2 kleine Zucchini cut into matchsticks (about 4 cups)
+  * Salz
+  * null
+  * Frühlingszwiebeln
+  * Geröstete Sesamsamen
+  * Limettenspalten
 category:
   - maindishes
 tags:

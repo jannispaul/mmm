@@ -5,23 +5,24 @@ date: 2019-12-30T12:26:00.000Z
 featuredImage: /img/5775fc63f21958e8.jpg
 time: 90
 portions: 12
-ingredients:
-  - "Für den Teig:"
-  - 100 g Butter
-  - 100 Zucker
-  - 3 Eier (getrennt)
-  - 125 g gemahlene Haselnüsse
-  - 60 g Kaba
-  - 20 g Mehl
-  - 1/2 TL Backpulver.
-  - "Für den Belag:"
-  - 400 g Schmand
-  - 8 EL Zucker
-  - 5 EL Zitronensaft
-  - 5 Blatt weiße Gelantine
-  - 400 ml Schlagsahne
-  - 3 Gläser rote Grütze oder Kirschgrütze
-  - 4 Blatt rote oder weiße Gelantine
+ingredients: |-
+  Für den Teig:
+  * 100 g Butter
+  * 100 Zucker
+  * 3 Eier (getrennt)
+  * 125 g gemahlene Haselnüsse
+  * 60 g Kaba
+  * 20 g Mehl
+  * 1/2 TL Backpulver.
+
+  Für den Belag:
+  * 400 g Schmand
+  * 8 EL Zucker
+  * 5 EL Zitronensaft
+  * 5 Blatt weiße Gelantine
+  * 400 ml Schlagsahne
+  * 3 Gläser rote Grütze oder Kirschgrütze
+  * 4 Blatt rote oder weiße Gelantine
 category:
   - desserts
   - cake / cookies

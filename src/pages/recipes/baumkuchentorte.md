@@ -5,25 +5,25 @@ date: 2020-01-01T19:28:51.109Z
 featuredImage: /img/img_4885-2.jpg
 time: 180
 portions: 16
-ingredients:
-  - 500 g Butter (zimmerwarm)
-  - 400 g Zucker
-  - 12 Eigelb (zimmerwarm)
-  - 1 EL Vanille-Essenz
-  - 250 g Mandeln gemahlen (ohne Haut)
-  - 250 g Weizenmehl (550er)
-  - 1 Tl Zimt gemahlen
-  - 1 Tl Kardamon gemahlen
-  - 2 x 6 Eiweiß (kalt)
-  - 1 EL Rosenwasser
-  - 1 EL Obstler
-  - 1 Tl Ingwer gemahlen
-  - 1 EL Rum
-  - 2 EL Schlagsahne
-  - 1 EL Kakaopulver
-  - 1/2 Glas Aprikosenmarmelade
-  - 300 g dunkle Kuvertüre
-  - 40 g Palmin
+ingredients: |-
+  * 500 g Butter (zimmerwarm)
+  * 400 g Zucker
+  * 12 Eigelb (zimmerwarm)
+  * 1 EL Vanille-Essenz
+  * 250 g Mandeln gemahlen (ohne Haut)
+  * 250 g Weizenmehl (550er)
+  * 1 Tl Zimt gemahlen
+  * 1 Tl Kardamon gemahlen
+  * 2 x 6 Eiweiß (kalt)
+  * 1 EL Rosenwasser
+  * 1 EL Obstler
+  * 1 Tl Ingwer gemahlen
+  * 1 EL Rum
+  * 2 EL Schlagsahne
+  * 1 EL Kakaopulver
+  * 1/2 Glas Aprikosenmarmelade
+  * 300 g dunkle Kuvertüre
+  * 40 g Palmin
 category:
   - desserts
 tags:

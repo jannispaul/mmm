@@ -6,27 +6,26 @@ description: tbd
 featuredImage: /img/dsc_1825-e1489034351149.jpg
 time: 30
 portions: 4
-ingredients:
-  - >-
-    1 1/2 cups/300g aufgetaute Tiefkühl-Meeresfrüchten (z.B.
+ingredients: |-
+  * 1 1/2 cups/300g aufgetaute Tiefkühl-Meeresfrüchten (z.B.
     Tintenfisch/Garnele/Muscheln/Austern/usw.)
-  - 1 Tl. Sesamöl
-  - 1 Bund Frühlingszwiebeln
-  - 1/2 rote Chilipaprika (optional)
-  - 1/2 grüne Chilipaprika (optional)
-  - 1 Ei (optional)
-  - Teig für 2 große Pfannkuchen
-  - 1 cup/128g koreanische Pfannkuchenmischung (buchim garu 부침가루)
-  - 2 Knoblauchzehen
-  - 1/2 Tl. Ingwer
-  - 1 Ei
-  - Sauce
-  - 1 El. Sojasauce
-  - 1 Tl. Essig
-  - 1 El. Wasser
-  - 1/2 Tl. Zucker
-  - Pfeffer
-  - Gochugaru (koreanische rote Chiliflocken)
+  * 1 Tl. Sesamöl
+  * 1 Bund Frühlingszwiebeln
+  * 1/2 rote Chilipaprika (optional)
+  * 1/2 grüne Chilipaprika (optional)
+  * 1 Ei (optional)
+  * Teig für 2 große Pfannkuchen
+  * 1 cup/128g koreanische Pfannkuchenmischung (buchim garu 부침가루)
+  * 2 Knoblauchzehen
+  * 1/2 Tl. Ingwer
+  * 1 Ei
+  * Sauce
+  * 1 El. Sojasauce
+  * 1 Tl. Essig
+  * 1 El. Wasser
+  * 1/2 Tl. Zucker
+  * Pfeffer
+  * Gochugaru (koreanische rote Chiliflocken)
 category:
   - maindishes
 tags:

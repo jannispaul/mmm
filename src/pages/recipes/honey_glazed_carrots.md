@@ -6,13 +6,11 @@ description: tbd
 featuredImage: /img/honey-garlic-butter-carrots-image-103.jpg
 time: 15
 portions: 1
-ingredients:
-  - Möhren
+ingredients: |-
+  * Möhren
+  * Honig
 category:
   - sidedishes
 tags:
   - Möhren
-
----
-
-tbd
+---tbd
