@@ -13,9 +13,7 @@ class AllRecipes extends React.Component {
 
     return (
       <Paddingcontainer>
-        <SectionHeadline link="/categories/desserts">
-          All Desserts
-        </SectionHeadline>
+        <SectionHeadline link="/categories/desserts">Desserts</SectionHeadline>
         <RecipeList>
           {posts &&
             posts.map(({ node: post }) => (
@@ -47,7 +45,7 @@ export default () => (
     query={graphql`
       query AllDessertsQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
+          sort: { limit: 5, order: DESC, fields: [frontmatter___date] }
           filter: {
             frontmatter: {
               templateKey: { eq: "recipe" }

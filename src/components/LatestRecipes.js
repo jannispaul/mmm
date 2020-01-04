@@ -14,7 +14,7 @@ class AllRecipes extends React.Component {
 
     return (
       <Paddingcontainer>
-        <SectionHeadline link="/recipes">Neue Rezepte</SectionHeadline>
+        <SectionHeadline link="/recipes">Alle Rezepte</SectionHeadline>
         <RecipeList>
           {posts &&
             posts.map(({ node: post }) => (
