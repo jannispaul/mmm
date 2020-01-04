@@ -13,7 +13,7 @@ ingredients: |-
 time: 30
 portions: 8
 category:
-  - sidedishes
+  - bread / buns
 tags:
   - Frühstück
   - Brunch
