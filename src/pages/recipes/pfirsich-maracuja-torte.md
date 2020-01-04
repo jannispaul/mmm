@@ -4,8 +4,6 @@ title: Pfirsich-Maracuja-Torte
 date: 2019-12-30T13:26:44.068Z
 featuredImage: >-
   /img/ein-stueck-pfirsich-maracuja-torte-von-vorn-die-kleine-windmuehle_hf-683x1024.jpg
-time: 30
-portions: 12
 ingredients: |-
   * 3 Eier
   * 1 Eßl. Vanillezucker
@@ -17,9 +15,10 @@ ingredients: |-
   * 2 Tütchen Sahnesteif
   * 250 ml Maracuja-Nektar
   * 2 Tütchen Vanillesaucenpulver (ohne Kochen)
+time: 30
+portions: 12
 category:
   - cake / cookies
-  - desserts
 tags:
   - fruchtig
   - Torte
