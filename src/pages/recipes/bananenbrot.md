@@ -17,6 +17,7 @@ portions: 10
 category:
   - desserts
   - cake / cookies
+  - bread / buns
 tags:
   - Ofen
   - Backen
