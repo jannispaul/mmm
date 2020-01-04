@@ -25,10 +25,11 @@ ingredients: |-
 time: 180
 portions: 16
 category:
-  - desserts
+  - cake / cookies
 tags:
   - Weihnachten
   - Geschenke aus der Küche
+  - gut vorzubereiten
 ---
 
 1. Böden von zwei Springformen (16 und 22 cm) mit Backpapier auslegen.
