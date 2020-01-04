@@ -3,8 +3,6 @@ templateKey: recipe
 title: Stutenkerl
 date: 2019-12-30T14:31:11.611Z
 featuredImage: /img/img_9569.jpg
-time: 60
-portions: 4
 ingredients: |-
   Für den Teig:
   * 500 Gramm Mehl
@@ -25,9 +23,11 @@ ingredients: |-
   Zum Bestreichen:
   * 1 Eigelb
   * 3 Esslöffel Milch
+time: 60
+portions: 4
 category:
-  - desserts
   - bread / buns
+  - cake / cookies
 tags:
   - Backen mit Kindern
   - Weihnachten
