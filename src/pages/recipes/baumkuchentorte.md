@@ -1,10 +1,8 @@
 ---
 templateKey: recipe
-title: Baumkuchentorte (1 Woche im Voraus backen)
+title: Baumkuchentorte ( Eine Woche im Voraus backen)
 date: 2020-01-01T19:28:51.109Z
 featuredImage: /img/img_4885-2.jpg
-time: 180
-portions: 16
 ingredients: |-
   * 500 g Butter (zimmerwarm)
   * 400 g Zucker
@@ -24,6 +22,8 @@ ingredients: |-
   * 1/2 Glas Aprikosenmarmelade
   * 300 g dunkle Kuvertüre
   * 40 g Palmin
+time: 180
+portions: 16
 category:
   - desserts
 tags:
