@@ -45,7 +45,8 @@ export default () => (
     query={graphql`
       query AllDessertsQuery {
         allMarkdownRemark(
-          sort: { limit: 5, order: DESC, fields: [frontmatter___date] }
+          limit: 5
+          sort: { order: DESC, fields: [frontmatter___date] }
           filter: {
             frontmatter: {
               templateKey: { eq: "recipe" }
