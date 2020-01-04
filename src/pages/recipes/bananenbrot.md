@@ -7,7 +7,7 @@ ingredients: |-
   * 2 bis 3 sehr reife Bananen
   * 75 g (1/3 cup) geschmolzene Butter
   * 1 Tl. Natron (baking soda)
-  * Priese Salz
+  * Prise Salz
   * 100 g (3/4 cup) Zucker
   * 1 großes Ei
   * 1 Tl. Vanille
