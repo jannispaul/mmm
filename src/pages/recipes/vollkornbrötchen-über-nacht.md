@@ -20,7 +20,7 @@ ingredients: |-
 
   4 TL Salz 
 
-  Oliven, Rosinen, Nüsse, Röstzwiebeln, Speckwürfel nach Wahl
+  Nach Wahl zusätzlich Oliven, Rosinen, Nüsse, Röstzwiebeln, Speckwürfel
 time: 60
 portions: 20
 category:
