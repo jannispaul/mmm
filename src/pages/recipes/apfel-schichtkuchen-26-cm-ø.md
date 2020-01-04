@@ -2,7 +2,7 @@
 templateKey: recipe
 title: 'Apfel-Schichtkuchen '
 date: 2020-01-04T13:52:35.366Z
-featuredImage: /img/img_9526.jpg
+featuredImage: /img/unknown.jpeg
 ingredients: "1 kg Äpfel\L\n\n2 EL Zitronensaft\L\n\n100 g Crème fraîche\n\n\L150 g weiche Butter\L\n\n250 g Zucker\n\n\L¼ TL gemahlene Vanille\L\n\n4 Eier\L\n\n300 g Mehl\L\n\n2 ½ TL Backpulver\n\n\L1 TL gemahlener Zimt\L\n\n¼ TL Salz\L\n\n2 EL Milch\L\n\n1 EL Rum\L\n\n3 EL Zimtzucker"
 time: 0
 portions: 12
