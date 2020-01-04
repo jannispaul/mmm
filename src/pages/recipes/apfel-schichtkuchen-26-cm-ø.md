@@ -11,7 +11,7 @@ category:
 tags:
   - Gäste
 ---
- 1. Backofen auf 175 °C Ober-/Unterhitze vorheizen. Springform einfetten. Die Äpfel schälen, vierteln, Kerngehäuse entfernen und in dünne Spalten schneiden. Apfelspalten mit  Zitronensaft und Crème fraîche vermischen und beiseitestellen.
+1. Backofen auf 175 °C Ober-/Unterhitze vorheizen. Springform einfetten. Die Äpfel schälen, vierteln, Kerngehäuse entfernen und in dünne Spalten schneiden. Apfelspalten mit  Zitronensaft und Crème fraîche vermischen und beiseitestellen.
 
 2. Butter, Zucker und Vanille in einer Schüssel schaumig schlagen. Die Eier einzeln gut einrühren. Mehl, Backpulver, Zimt und Salz in eine zweite Schüssel sieben. Mehlmischung, Milch und Rum in die Butter-Ei-Masse rühren.
 
