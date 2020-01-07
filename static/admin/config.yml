@@ -24,17 +24,18 @@ collections:
           widget: "hidden",
           default: "recipe",
         }
-      - { label: "Titee", name: "title", widget: "string" }
+      - { label: "Titel", name: "title", widget: "string" }
       - { label: "Veröffentlichung", name: "date", widget: "datetime" }
       # - { label: "Beschreibung", name: "description", widget: "text" }
       # - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
       - { label: "Hauptbild", name: "featuredImage", widget: "image" }
-      - { label: "Ingredients", name: "ingredients", widget: "markdown" }
+      - { label: "Zutaten", name: "ingredients", widget: "markdown" }
       - { label: "Anweisungen", name: "body", widget: "markdown" }
       - {
           label: "Dauer",
           name: "time",
           widget: "number",
+          min: 0,
           default: 60,
           valueType: "int",
         }
