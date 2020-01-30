@@ -4,56 +4,56 @@ title: Pinto Bean and Vegetable Chili
 date: 2020-01-30T22:45:42.766Z
 featuredImage: /img/vegan-chili-6x4.jpg
 ingredients: >-
-  # 1 pound (about 2 1/2 cups) dried pinto beans, picked over and rinsed
+  1 pound (about 2 1/2 cups) dried pinto beans, picked over and rinsed
 
 
-  # 2 large onions, chopped
+  2 large onions, chopped
 
 
-  # 6 garlic cloves
+  6 garlic cloves
 
 
-  # 3 tablespoons vegetable oil
+  3 tablespoons vegetable oil
 
 
-  # 1/3 cup chili powder
+  1/3 cup chili powder
 
 
-  # 1 tablespoon ground cumin
+  1 tablespoon ground cumin
 
 
-  # 1/2 teaspoon cayenne, or to taste
+  1/2 teaspoon cayenne, or to taste
 
 
-  # 6 cups water
+  6 cups water
 
 
-  # 3 cups vegetable broth
+  3 cups vegetable broth
 
 
-  # a 28-ounce can tomatoes, drained and chopped
+  a 28-ounce can tomatoes, drained and chopped
 
 
-  # 1 red bell pepper, chopped fine
+  1 red bell pepper, chopped fine
 
 
-  # a 10-ounce package frozen corn
+  a 10-ounce package frozen corn
 
 
-  # 3/4 cup bulgur
+  3/4 cup bulgur
 
 
-  # 2 medium zucchini, scrubbed well and cut into 3/4-inch pieces
+  2 medium zucchini, scrubbed well and cut into 3/4-inch pieces
 
 
-  # 2 tablespoons Worcestershire sauce, or to taste
+  2 tablespoons Worcestershire sauce, or to taste
 
 
-  # 3/4 cup Kalamata or other brine-cured black olives if desired, pitted and
+  3/4 cup Kalamata or other brine-cured black olives if desired, pitted and
   chopped
 
 
-  # 1/3 cup chopped fresh coriander if desired
+  1/3 cup chopped fresh coriander if desired
 time: 118
 portions: 8
 category:
