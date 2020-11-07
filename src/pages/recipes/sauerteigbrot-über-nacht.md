@@ -3,8 +3,6 @@ templateKey: recipe
 title: Sauerteigbrot über Nacht
 date: 2020-01-01T14:09:13.746Z
 featuredImage: /img/img_7099.jpg
-time: 60
-portions: 8
 ingredients: |-
   * 350 g Vollkorn-Weizenmehl
   * 100 g Roggenmehl
@@ -13,8 +11,10 @@ ingredients: |-
   * 240 ml  Wasser
   * 75 g flüssiger Sauerteig (1 Beutel von Seitenbacher z.B.)
   * 150 g Vollmilch-Joghurt
+time: 60
+portions: 8
 category:
-  - sidedishes
+  - bread / buns
 tags:
   - Vollkorn
   - Roggen

@@ -3,16 +3,16 @@ templateKey: recipe
 title: Brötchen über Nacht
 date: 2020-01-01T13:43:59.209Z
 featuredImage: /img/1234.jpg
-time: 30
-portions: 8
 ingredients: |-
   * 500 g (ca. 3 3/4 cups) Mehl (Weizen 550 oder 1050 oder Dinkel 630)
   * 1 Packung (ca. 2 1/4 TL) Trockenbackhefe
   * 1 1/2 TL Salz
   * 360 ml Wasser
   * ca. 250 ml (1 cup) Wasser zum Backen
+time: 30
+portions: 8
 category:
-  - sidedishes
+  - bread / buns
 tags:
   - Feiertage
   - Sonntagsfrühstück

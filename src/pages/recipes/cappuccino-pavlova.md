@@ -1,10 +1,8 @@
 ---
 templateKey: recipe
-title: "Cappuccino-Pavlova "
+title: 'Cappuccino-Pavlova '
 date: 2019-12-30T13:38:45.048Z
 featuredImage: /img/cappuccino-pavlova-561e306e938cc.jpg
-time: 30
-portions: 10
 ingredients: |-
   Für das Baiser:
   * 4 Eiweiß
@@ -17,6 +15,8 @@ ingredients: |-
   Zusätzlich:
   * 300 ml Schlagsahne
   * 1  TL Kakao
+time: 30
+portions: 10
 category:
   - cake / cookies
   - desserts
@@ -24,6 +24,7 @@ tags:
   - Kaffee
   - Sahne
   - Baiser
+  - Eiweißverwendung
 ---
 
 1. Das Backblech mit Backpapier auslegen, auf das Backpapier einen 23 cm großen Kreis malen.
